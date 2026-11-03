@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
-    <title>我的每日新闻</title>
+    <title>每日早报</title>
     <link>https://cheng1260.github.io/Podcast-test/podcast-test</link>
     <description>AI 生成的每日新闻简报（私人订阅，未提交目录）</description>
     <language>zh-cn</language>
     <itunes:author>Personal</itunes:author>
     <itunes:block>Yes</itunes:block>
     <itunes:explicit>false</itunes:explicit>
-    <image><url>https://cheng1260.github.io/Podcast-test/podcast-test/cover.png</url><title>我的每日新闻</title><link>https://cheng1260.github.io/Podcast-test/podcast-test</link></image>
+    <image><url>https://cheng1260.github.io/Podcast-test/podcast-test/cover.png</url><title>每日早报</title><link>https://cheng1260.github.io/Podcast-test/podcast-test</link></image>
     <itunes:image href="https://cheng1260.github.io/Podcast-test/podcast-test/cover.png"/>
     <item>
       <title>11-03 二 · 每日简报</title>
       <description>11月3日新闻简报。今天先看时事方面。国内公布了一项新的产业扶持政策，重点覆盖先进制造和绿色能源，配套资金规模比去年同期明显增加。国际上，主要经济体的央行维持利率不变，市场普遍解读为观望信号。接下来是人工智能方面的消息。一家头部实验室发布了新的多模态模型，官方数据显示长文本理解能力提升了近三成。<br/>同时，国内多家机构联合发布了行业自律规范，对数据授权提出更细的要求。最后是开源项目。今天登顶的是一个本地推理加速框架，主打在消费级显卡上跑大模型，一夜之间涨了两千多颗星。以上就是今天的全部内容。</description>
       <link>https://cheng1260.github.io/Podcast-test/podcast-test</link>
-      <guid isPermaLink="false">我的每日新闻/20261103</guid>
+      <guid isPermaLink="false">每日早报/20261103</guid>
       <pubDate>Tue, 03 Nov 2026 19:58:40 +0800</pubDate>
       <enclosure url="https://cheng1260.github.io/Podcast-test/podcast-test/episodes/20261103.mp3" length="391044" type="audio/mpeg"/>
       <itunes:duration>0:48</itunes:duration>

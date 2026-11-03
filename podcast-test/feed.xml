@@ -10,16 +10,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
     <image><url>__BASE_URL__/cover.png</url><title>每日早报（测试）</title><link>__BASE_URL__/</link></image>
-    <itunes:image href="__BASE_URL__/cover.png"/>
+    <itunes:image href="https://cheng1260.github.io/Podcast-test/cover.png"/>
     <item>
       <title>11月3日 测试单集</title>
       <description>用于验证 iOS 播客能否正常订阅并下载音频。若这一条能播放，说明整套链路通了。</description>
       <link>__BASE_URL__/</link>
       <guid isPermaLink="false">test-20261103</guid>
       <pubDate>Tue, 03 Nov 2026 07:00:00 +0800</pubDate>
-      <enclosure url="__BASE_URL__/episodes/20261103.mp3" length="408390" type="audio/mpeg"/>
+      <enclosure url="https://cheng1260.github.io/Podcast-test/episodes/20261103.mp3" length="408390" type="audio/mpeg"/>
       <itunes:duration>0:51</itunes:duration>
-      <itunes:image href="__BASE_URL__/cover.png"/>
+      <itunes:image href="https://cheng1260.github.io/Podcast-test/cover.png"/>
     </item>
   </channel>
 </rss>

@@ -249,7 +249,7 @@ def build_feed(site_url: str, episodes: list[dict], cover: Path | None) -> str:
     for e in sorted(episodes, key=lambda x: x["published"], reverse=True):
         pub = format_datetime(e["published"])
         secs = int(e["duration"])
-        notes = esc(e.get("notes", "")).replace("\n", "<br/>")
+        notes = esc(e.get("notes", "")).replace("\n", "&lt;br/&gt;")
         cover_tag, trans_tag = "", ""
         if cover:
             cover_tag = (f'\n      <itunes:image href="{base}/{cover.name}"/>')
@@ -392,20 +392,30 @@ def main() -> int:
         if os.environ.get("N2P_STAMP"):                      # 允许外部指定日期，便于补跑
             today = datetime.strptime(os.environ["N2P_STAMP"], "%Y-%m-%d")
         stamp = today.strftime("%Y%m%d")
-        fname = f"{stamp}.mp3"
-        out = eps_dir / fname
-        log(f"生成 {fname}（{len(script)} 字）…")
+        raw_name = f"{stamp}.mp3"
+        out = eps_dir / raw_name
+        log(f"生成 {raw_name}（{len(script)} 字）…")
         with tempfile.TemporaryDirectory() as tmp:
             dur, cues = make_audio(script, out, Path(tmp))
-        write_captions(cues, root, stamp)
-        log(f"  字幕 {len(cues)} 条 → transcripts/{stamp}.vtt / .srt")
-        log(f"  → {out.stat().st_size / 1024:.0f} KB, {dur / 60:.1f} 分钟")
+        import hashlib
+        uid = hashlib.md5(out.read_bytes()).hexdigest()[:8]
+        base = f"{stamp}-{uid}"
+        fname = f"{base}.mp3"
+        final = eps_dir / fname
+        if final != out:
+            shutil.move(str(out), str(final))
+            out = final
+        write_captions(cues, root, base)
+        log(f"  字幕 {len(cues)} 条 → transcripts/{base}.vtt / .srt")
+        log(f"  → {fname}  {out.stat().st_size / 1024:.0f} KB, {dur / 60:.1f} 分钟")
 
         feed_path = root / "feed.xml"
         eps = parse_feed(feed_path)
-        eps = [e for e in eps if e["guid"] != f"{TITLE}/{stamp}"]
+        # 删掉同一天旧指纹的单集，避免重跑后列表里堆重复
+        eps = [e for e in eps if e["guid"] != f"{TITLE}/{stamp}"
+               and not e["guid"].startswith(f"{TITLE}/{stamp}-")]
         eps.append({
-            "guid": f"{TITLE}/{stamp}",
+            "guid": f"{TITLE}/{base}",
             "title": today.strftime("%m-%d") + " " + "一二三四五六日"[today.weekday()] + " · 每日简报",
             "link": "",
             "published": today.astimezone(),
@@ -413,7 +423,7 @@ def main() -> int:
             "bytes": out.stat().st_size,
             "duration": dur,
             "notes": script[:8000],
-            "transcript": stamp,
+            "transcript": base,
         })
         # 只保留最近 KEEP 期，旧 mp3 一并删除（手机端已下载的不受影响）
         eps.sort(key=lambda e: e["published"], reverse=True)

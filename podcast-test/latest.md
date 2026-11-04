@@ -1,126 +1,151 @@
-2026年11月4日 新闻早报阅读清单
-共30条，编号与口播稿完全一致。
-听到感兴趣的编号后，按编号在这里查找详情。
-GitHub 项目可复制完整链接在浏览器打开。
+2026年11月5日 · 每日早报阅读清单
+
+共30条，编号与播客口播稿完全一致。
+想详查某条，按编号在下方查找；
+GitHub项目附有仓库链接，长链接可自动折行。
 
 【时事新闻】1-10
 
-1. 美国中期选举投票举行
+1. 美国中期选举民主党大胜，
+重夺国会参众两院控制权
+来源：新华社（引CNN、NBC测算）
+
+2. 特朗普接受选举结果，
+但强调拥有完全否决权
+来源：中国青年网（引CBS）
+
+3. 特朗普宣布年底前停止
+每年约40亿美元对以军援
+来源：央视新闻
+
+4. 俄美乌三方会谈11月10日至11日
+在阿联酋阿布扎比举行
 来源：新华社
 
-2. 俄美乌三方会谈定于阿布扎比举行
-来源：路透社
+5. 央行上调外汇存款准备金率，
+11月15日起由4%升至6%
+来源：中国人民银行
 
-3. 乌克兰能源设施遭袭，基辅停水停电
+6. 第九届进博会明天上海开幕，
+各项筹备工作全部就绪
 来源：央视新闻
 
-4. 国务院金融工作报告提请审议
+7. 力箭二号发射成功，
+首次执行一箭18星组网任务
+来源：央视新闻
+
+8. 五部门发布促消费指导意见，
+提出20项具体举措
+来源：国家发展改革委
+
+9. 超强厄尔尼诺形成，
+今冬气温偏高但寒潮频次偏多
+来源：中国气象局
+
+10. 澳大利亚央行年内第五次加息，
+利率升至4.85%创18年新高
 来源：新华社
-
-5. 央行开展千亿元互换便利操作
-来源：21世纪经济报道
-
-6. 证监会：全力维护资本市场平稳运行
-来源：新浪财经
-
-7. 世界互联网大会乌镇峰会开幕
-来源：央视新闻
-
-8. 五中全会文件及辅导材料在京首发
-来源：央视新闻
-
-9. 力箭二号一箭十八星发射成功
-来源：网易新闻
-
-10. 巴黎宪兵遭燃烧瓶袭击，检方立案
-来源：BBC
 
 【人工智能】11-20
 
-11. OpenAI 发布 GPT-6.1 Terra，价格减半
-来源：澎湃新闻
+11. ChatGPT周活跃用户达12亿，
+60天净增2亿，广告年收入破10亿美元
+来源：财联社（OpenAI披露）
 
-12. 谷歌发布 Gemini 4 Carbon，评测登顶
-来源：澎湃新闻
+12. 谷歌发布Gemini 4 Carbon，
+登顶评测第一但母公司股价大跌
+来源：雷锋网（Artificial Analysis）
 
-13. 阿里千问集成至 Apple 智能
-来源：澎湃新闻
+13. GPT-6.2 Astra疑似灰度测试，
+神秘双模型代号闪现API后撤下
+来源：新智元（TestingCatalog）
 
-14. Anthropic 公开招股书，冲刺史上最大 IPO
-来源：澎湃新闻
+14. 腾讯混元Hy4正式版发布，
+770B参数，首次支持电脑操作
+来源：科创板日报
 
-15. 发改委：加快人工智能基础性立法
-来源：中国经济网
+15. AI推理服务商Fal融资13亿美元，
+估值翻倍至160亿，英伟达参投
+来源：TechCrunch
 
-16. 微软开源电脑操作模型
-Mage-VL-Cowork 4B
-来源：搜狐科技
+16. Salesforce约27亿美元
+收购AI联络中心软件商Cresta
+来源：财联社
 
-17. 谷歌发布睡眠框架，大模型边睡边学
-来源：搜狐科技
+17. 苹果开放Siri跨App能力，
+第三方开发者可接入新AI功能
+来源：The Verge
 
-18. GPT-6.2 Astra 灰度上线，Opus 6 曝光
-来源：搜狐科技
+18. 欧盟法院顾问警告：
+谷歌Gemini或侵犯出版商版权
+来源：外媒综合
 
-19. 人形机器人落地京东七鲜咖啡门店
-来源：搜狐科技
+19. 字节Seedance海外收入占比达50%，
+覆盖100多个国家
+来源：财联社
 
-20. 大摩 CEO：十年内 AI 资本支出或达
-十万亿至十五万亿美元
-来源：财经早餐
+20. Anthropic算力利润率恶化，
+成本压力成商业化难题
+来源：TechCrunch
 
-【GitHub 热门项目】21-30
+【GitHub热门项目】21-30
 
-21. vercel-labs/agent-desktop
-AI 智能体的电脑操作命令行工具
-今日新增星标：3792
+21. morluto/rea
+让编程Agent逆向无源码软件，
+分析功能实现并附证据
+今日新增星标：+2282
+https://github.com/morluto/rea
+
+22. storytold/craft-anything
+先研究应用或游戏原理，
+再让Agent按指定技术栈复刻
+今日新增星标：+1927
+https://github.com/storytold/craft-anything
+
+23. pingdotgg/t3code
+把各家编程Agent收进同一控制面，
+手机网页桌面都能遥控
+今日新增星标：+1391
+https://github.com/pingdotgg/t3code
+
+24. vercel-labs/agent-desktop
+让Agent经系统无障碍接口
+直接操作桌面应用
+今日新增星标：+1314
 https://github.com/vercel-labs/agent-desktop
 
-22. D4Vinci/Scrapling
-Python 网页抓取框架，支持大规模爬取
-今日新增星标：1658
-https://github.com/D4Vinci/Scrapling
-
-23. Donchitos/Claude-Code-Game-Studios
-把 Claude Code 变成游戏开发工作室
-内置49个智能体和72个技能
-今日新增星标：1181
-https://github.com/Donchitos/Claude-Code-Game-Studios
-
-24. mattpocock/skills
-知名开发者分享的工程师实用技能集
-今日新增星标：1164
+25. mattpocock/skills
+给编程助手装上先追问再动手的
+技能，减少方向性返工
+今日新增星标：+1307
 https://github.com/mattpocock/skills
 
-25. thedotmack/claude-mem
-为编程智能体提供跨会话持久记忆
-今日新增星标：1138
-https://github.com/thedotmack/claude-mem
+26. NVIDIA/auto-ontology
+调和企业指标定义成统一本体，
+Agent查数前先过认证关
+今日新增星标：+1273
+https://github.com/NVIDIA/auto-ontology
 
-26. JustVugg/colibri
-MoE 大模型分层推理引擎
-冷专家可从硬盘流式加载
-今日新增星标：803
-https://github.com/JustVugg/colibri
+27. OpenSelena/omniget
+贴链接即可下载视频课程和磁力，
+还能转写音频、做记忆卡
+今日新增星标：+1123
+https://github.com/OpenSelena/omniget
 
-27. p-e-w/heretic
-无需训练即可修改语言模型行为
-可减少谄媚式回答
-今日新增星标：699
-https://github.com/p-e-w/heretic
+28. Ebony-Vinyl/dsh-our-free-model
+DeepSeek Harness插件，
+免登录免Key用免费前沿模型
+今日新增星标：+1043
+https://github.com/Ebony-Vinyl/dsh-our-free-model
 
-28. floci-io/floci
-免费的 AWS 云服务本地模拟器
-今日新增星标：679
-https://github.com/floci-io/floci
+29. D4Vinci/Scrapling
+网页改版后能自己找回目标的
+Python抓取框架
+今日新增星标：+1008
+https://github.com/D4Vinci/Scrapling
 
-29. shiyu-coder/Kronos
-金融市场语言基础模型，用于行情预测
-今日新增星标：503
-https://github.com/shiyu-coder/Kronos
-
-30. max-sixty/worktrunk
-Git 工作树管理工具，专为并行
-AI 编程智能体设计
-今日新增星标：437
-https://github.com/max-sixty/worktrunk
+30. ccch1mneyyy/dsh-Go
+DeepSeek Harness第三方安卓客户端，
+内置Linux环境免Root直跑
+今日新增星标：+973
+https://github.com/ccch1mneyyy/dsh-Go

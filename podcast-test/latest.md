@@ -1,151 +1,129 @@
-2026年11月5日 · 每日早报阅读清单
-
-共30条，编号与播客口播稿完全一致。
-想详查某条，按编号在下方查找；
-GitHub项目附有仓库链接，长链接可自动折行。
+2026年11月6日 · 每日早报
+共30条，编号与口播稿一致
+按编号查找即可对应收听内容
 
 【时事新闻】1-10
 
-1. 美国中期选举民主党大胜，
-重夺国会参众两院控制权
-来源：新华社（引CNN、NBC测算）
-
-2. 特朗普接受选举结果，
-但强调拥有完全否决权
-来源：中国青年网（引CBS）
-
-3. 特朗普宣布年底前停止
-每年约40亿美元对以军援
+1. 第九届进博会上海开幕
 来源：央视新闻
 
-4. 俄美乌三方会谈11月10日至11日
-在阿联酋阿布扎比举行
-来源：新华社
-
-5. 央行上调外汇存款准备金率，
-11月15日起由4%升至6%
-来源：中国人民银行
-
-6. 第九届进博会明天上海开幕，
-各项筹备工作全部就绪
+2. 2027年放假安排公布
+春节放9天
 来源：央视新闻
 
-7. 力箭二号发射成功，
-首次执行一箭18星组网任务
+3. 美国中期选举民主党赢下众议院
+来源：路透社
+
+4. 英国央行加息至4%
+三年多来首次
+来源：路透社
+
+5. 商务部回应自美采购农产品
 来源：央视新闻
 
-8. 五部门发布促消费指导意见，
-提出20项具体举措
-来源：国家发展改革委
+6. 外交部回应日本新版安保三文件
+来源：央视新闻
 
-9. 超强厄尔尼诺形成，
-今冬气温偏高但寒潮频次偏多
-来源：中国气象局
+7. 尹锡悦案二审
+获刑一年六个月缓刑三年
+来源：韩联社
 
-10. 澳大利亚央行年内第五次加息，
-利率升至4.85%创18年新高
-来源：新华社
+8. 世界互联网大会乌镇峰会闭幕
+签约连续四年超千亿
+来源：央视新闻
 
-【人工智能】11-20
+9. 前三季度服务进出口增8.5%
+来源：商务部
 
-11. ChatGPT周活跃用户达12亿，
-60天净增2亿，广告年收入破10亿美元
-来源：财联社（OpenAI披露）
+10. C罗宣布从葡萄牙国家队退役
+来源：BBC
 
-12. 谷歌发布Gemini 4 Carbon，
-登顶评测第一但母公司股价大跌
-来源：雷锋网（Artificial Analysis）
+【AI资讯】11-20
 
-13. GPT-6.2 Astra疑似灰度测试，
-神秘双模型代号闪现API后撤下
-来源：新智元（TestingCatalog）
+11. OpenAI发布GPT-5.1
+推理与代码能力提升
+来源：OpenAI官方
 
-14. 腾讯混元Hy4正式版发布，
-770B参数，首次支持电脑操作
-来源：科创板日报
+12. Anthropic发布Claude 4系列
+来源：Anthropic官方
 
-15. AI推理服务商Fal融资13亿美元，
-估值翻倍至160亿，英伟达参投
-来源：TechCrunch
+13. 谷歌推出Gemini 3
+强化多模态与视频理解
+来源：Google官方
 
-16. Salesforce约27亿美元
-收购AI联络中心软件商Cresta
-来源：财联社
+14. Anthropic被曝提交上市申请
+谷歌190亿美元算力背书
+来源：Fortune
 
-17. 苹果开放Siri跨App能力，
-第三方开发者可接入新AI功能
-来源：The Verge
+15. OpenAI收购Pierre
+Codex对标GitHub
+来源：Axios
 
-18. 欧盟法院顾问警告：
-谷歌Gemini或侵犯出版商版权
-来源：外媒综合
+16. ChatGPT周活用户达12亿
+来源：腾讯科技
 
-19. 字节Seedance海外收入占比达50%，
-覆盖100多个国家
-来源：财联社
+17. 甲骨文取消向腾讯出租芯片协议
+来源：The Information
 
-20. Anthropic算力利润率恶化，
-成本压力成商业化难题
-来源：TechCrunch
+18. AMD三季度营收133.8亿美元
+同比增45%
+来源：AMD财报
+
+19. 发改委加快人工智能立法
+来源：国家发改委
+
+20. OpenAI发布Images 2.6
+支持动图生成提速一半
+来源：OpenAI官方
 
 【GitHub热门项目】21-30
 
-21. morluto/rea
-让编程Agent逆向无源码软件，
-分析功能实现并附证据
-今日新增星标：+2282
-https://github.com/morluto/rea
-
-22. storytold/craft-anything
-先研究应用或游戏原理，
-再让Agent按指定技术栈复刻
-今日新增星标：+1927
-https://github.com/storytold/craft-anything
-
-23. pingdotgg/t3code
-把各家编程Agent收进同一控制面，
-手机网页桌面都能遥控
-今日新增星标：+1391
-https://github.com/pingdotgg/t3code
-
-24. vercel-labs/agent-desktop
-让Agent经系统无障碍接口
-直接操作桌面应用
-今日新增星标：+1314
-https://github.com/vercel-labs/agent-desktop
-
-25. mattpocock/skills
-给编程助手装上先追问再动手的
-技能，减少方向性返工
-今日新增星标：+1307
-https://github.com/mattpocock/skills
-
-26. NVIDIA/auto-ontology
-调和企业指标定义成统一本体，
-Agent查数前先过认证关
-今日新增星标：+1273
+21. NVIDIA/auto-ontology
+语义图谱推理框架
+今日新增星标：2700+
 https://github.com/NVIDIA/auto-ontology
 
-27. OpenSelena/omniget
-贴链接即可下载视频课程和磁力，
-还能转写音频、做记忆卡
-今日新增星标：+1123
-https://github.com/OpenSelena/omniget
+22. vercel-labs/agent-desktop
+给智能体用的电脑操作CLI
+今日新增星标：2100+
+https://github.com/vercel-labs/agent-desktop
 
-28. Ebony-Vinyl/dsh-our-free-model
-DeepSeek Harness插件，
-免登录免Key用免费前沿模型
-今日新增星标：+1043
-https://github.com/Ebony-Vinyl/dsh-our-free-model
+23. mattpocock/skills
+编程智能体技能配置合集
+今日新增星标：2000+
+https://github.com/mattpocock/skills
 
-29. D4Vinci/Scrapling
-网页改版后能自己找回目标的
-Python抓取框架
-今日新增星标：+1008
+24. D4Vinci/Scrapling
+Python网页抓取框架
+今日新增星标：1600+
 https://github.com/D4Vinci/Scrapling
 
-30. ccch1mneyyy/dsh-Go
-DeepSeek Harness第三方安卓客户端，
-内置Linux环境免Root直跑
-今日新增星标：+973
-https://github.com/ccch1mneyyy/dsh-Go
+25. floci-io/floci
+免费AWS本地模拟器
+今日新增星标：780+
+https://github.com/floci-io/floci
+
+26. scenario-labs/skills
+智能体生成图视音3D素材
+今日新增星标：670+
+https://github.com/scenario-labs/skills
+
+27. garrytan/gstack
+Garry Tan开源Claude Code配置
+今日新增星标：600+
+https://github.com/garrytan/gstack
+
+28. max-sixty/worktrunk
+Git工作树管理CLI
+今日新增星标：540+
+https://github.com/max-sixty/worktrunk
+
+29. Usagi-org/ai-goofish-monitor
+闲鱼商品智能监控
+今日新增星标：240+
+https://github.com/Usagi-org/ai-goofish-monitor
+
+30. microsoft/VibeVoice
+开源多说话人语音模型
+今日新增星标：200+
+https://github.com/microsoft/VibeVoice

@@ -1,152 +1,151 @@
-2026年11月7日 新闻阅读清单
-共30条，编号与播客口播稿一致，
-可按编号查找对应内容详查。
-
+11月8日 新闻早报 · 阅读清单
+共30条，编号与口播稿完全一致。
+听到编号后按序号查找即可。
+GitHub条目附完整仓库链接。
 
 【时事新闻】1-10
 
-1. 国常会部署经济工作，
-完善稳市机制增强股市稳定性
+1. 中央部署二十一大代表
+选举，名额2360名
 来源：新华社
 
-2. 央行下调回购增持再贷款利率
-至百分之一，额度申请超两千亿
-来源：人民日报
-
-3. 中加关系提升为
-新时代中加命运共同体
+2. 中国空间站将迎来
+首位外籍航天员
 来源：新华社
 
-4. 第九届进博会在上海开幕，
-外国人士点赞中国开放承诺
+3. 第43次南极考察队
+从三亚启航
 来源：新华社
 
-5. 韩国KOSPI暴跌超百分之八，
-年内第11次触发熔断
-来源：央广网、路透社
+4. 第七届世界媒体峰会
+在北京开幕
+来源：新华社
 
-6. 美中期选举民主党大胜，
-纳指单日暴跌超百分之六
-来源：路透社
+5. 10月末外汇储备
+34052亿美元
+来源：国家外汇管理局
 
-7. 俄美乌三方会谈11月10日
-在阿布扎比举行，普京确认
-来源：央视新闻、路透社
+6. 美中期选举民主党
+拿下两院，AI股大跌
+来源：Reuters
 
-8. 欧洲多家媒体机构与客机
-接连遭炸弹威胁，未发现爆炸物
-来源：路透社
+7. 美10月非农新增
+16.5万远超预期
+来源：Reuters / 环球网
 
-9. 油轮霍尔木兹海峡附近爆炸，
-美宣布新一轮对伊制裁
-来源：央视新闻、路透社
+8. 美军对伊朗实施
+有限打击，油价回落
+来源：Reuters / AP
 
-10. 第二艘国产大型邮轮
-爱达花城号在上海交付
-来源：央广网
+9. 波兰克拉科夫枪击
+致6死12伤
+来源：Reuters
 
+10. 税收征管法草案：
+滞纳金不超本金两倍
+来源：网易财经
 
-【人工智能】11-20
+【AI资讯】11-20
 
-11. OpenAI完成110亿美元融资，
-估值1.25万亿美元
-来源：彭博社、CNBC
+11. OpenAI推出GPT-6
+Cyber安全审计模型
+来源：BYOBot / 网易科技
 
-12. Anthropic拟本月IPO，
-融资800亿至1000亿美元
-来源：英国金融时报、彭博社
+12. 谷歌Gemini Omni
+1.2 Flash正式商用
+来源：Google官方
 
-13. AI股抛售引发市场警惕，
-VIX恐慌指数一周涨超四成
-来源：路透社
+13. DeepMind称AI发现
+RSA旧加密弱点
+来源：Interesting
+Engineering / DeepMind
 
-14. 美选民多数反对建数据中心，
-OpenAI承诺不再签保密协议
-来源：The Verge
+14. Thinking Machines发
+布Inkling 2 Small
+来源：BYOBot / TechCrunch
 
-15. 谷歌Gemini Omni 1.2 Flash
-正式上线，视频生成降价三成
-来源：The Context
+15. Anthropic发布智能体
+记忆与dreaming研究
+来源：Anthropic官方
 
-16. Thinking Machines发布
-Inkling 2 Small，下周开源权重
-来源：The Context
+16. 美司法部成立
+超级智能工作组
+来源：BYOBot
 
-17. METR评估：AI让Anthropic
-研发速度翻倍
-来源：The Context
+17. 月之暗面发布
+Kimi K3.1 Pro
+来源：BYOBot
 
-18. OpenAI发布BioBasicsBench，
-用真实湿实验任务测试AI
-来源：OpenAI官方
+18. 英伟达开源
+Cosmos 3世界模型
+来源：NVIDIA官方
 
-19. 美企开源模型支出近九成
-流向中国模型，Kimi占61%
-来源：Menlo Ventures
+19. 辛顿警告AI或致
+切尔诺贝利式事故
+来源：AI Daily News
 
-20. 测试显示DeepSeek与GLM
-攻击能力接近OpenAI受限模型
-来源：The Meridiem、Wired
+20. OpenAI与Anthropic
+估值面临下调压力
+来源：Bloomberg
 
-
-【GitHub热门项目】21-30
+【GitHub热门】21-30
 
 21. cloudflare/security-audit-skill
-给编程智能体用的安全审计技能，
-输出可机器核验的审计报告
-今日新增星标：2524
+让编码智能体做多阶段
+安全审计，结果可验证
+今日新增星标：2088
 https://github.com/cloudflare/security-audit-skill
 
-22. mattpocock/skills
-知名TypeScript教育者开源的
-工程师AI技能提示词合集
-今日新增星标：2058
+22. vercel-labs/agent-browser
+AI智能体用的浏览器
+自动化命令行工具
+今日新增星标：180
+https://github.com/vercel-labs/agent-browser
+
+23. mattpocock/skills
+工程师技能集，让AI
+写码前先问清需求
+今日新增星标：1111
 https://github.com/mattpocock/skills
 
-23. NVIDIA/auto-ontology
-英伟达出品，用知识图谱给数据
-加语义推理层，助力AI检索
-今日新增星标：2005
-https://github.com/NVIDIA/auto-ontology
-
-24. google/skills
-谷歌官方的智能体技能库，
-覆盖谷歌产品与开发技术
-今日新增星标：532
-https://github.com/google/skills
-
-25. lz4/lz4
-极快的压缩算法库，
-被众多数据库与系统采用
-今日新增星标：313
-https://github.com/lz4/lz4
-
-26. microsoft/vscode
-微软开源代码编辑器
-Visual Studio Code
-今日新增星标：295
-https://github.com/microsoft/vscode
-
-27. zed-industries/zed
-Atom创始团队打造的高性能
-多人代码编辑器，Rust编写
-今日新增星标：292
+24. zed-industries/zed
+高性能多人代码编辑器，
+Rust编写
+今日新增星标：1119
 https://github.com/zed-industries/zed
 
-28. react/react
-Meta的开源界面库，
-全球最流行前端框架的核心
-今日新增星标：244
-https://github.com/react/react
+25. sherlock-project/sherlock
+按用户名跨平台查找
+社交账号的OSINT工具
+今日新增星标：1819
+https://github.com/sherlock-project/sherlock
 
-29. astral-sh/ruff
+26. milind-soni/OpenMausBot
+开源Grok Bot替代品，
+内置虚拟机
+今日新增星标：1986
+https://github.com/milind-soni/OpenMausBot
+
+27. google/skills
+谷歌产品官方
+Agent Skills合集
+今日新增星标：449
+https://github.com/google/skills
+
+28. anthropics/skills
+Anthropic官方智能体
+技能公开仓库
+今日新增星标：386
+https://github.com/anthropics/skills
+
+29. meta/astryx
+可定制、面向智能体的
+开源设计系统
+今日新增星标：185
+https://github.com/meta/astryx
+
+30. astral-sh/ruff
 Rust编写的超快Python
-代码检查与格式化工具
-今日新增星标：213
+检查与格式化工具
+今日新增星标：350
 https://github.com/astral-sh/ruff
-
-30. nushell/nushell
-新型Shell，把命令输出当
-结构化数据管道处理
-今日新增星标：177
-https://github.com/nushell/nushell

@@ -1,137 +1,139 @@
-2026年11月10日 · 每日早报
-共30条 · 编号与播客口播稿一致
-按编号对照查找，GitHub 项目附完整链接
+每日早报 · 2026年11月11日
+共30条，编号与口播稿一致
+记住编号，可在下方清单按编号查找详情
 
 【时事新闻】1-10
 
-1. 中方调整对美加征关税措施
+1. 前10个月我国外贸总值超44万亿元
+同比增长20%，AI相关出口猛增
+来源：海关总署
+
+2. 金融管理部门打出稳市组合拳
+第三批互换便利启动，回购增持再贷款利率降至1%
+来源：经济日报
+
+3. 俄美乌三方会谈在阿布扎比重启
+首日近4小时，泽连斯基称富有建设性
+来源：Reuters
+
+4. 美国10月通胀超预期
+CPI环比涨0.4%，市场押注美联储12月加息
+来源：Reuters
+
+5. 中东局势缓和，油价回落
+布伦特原油盘中跌破每桶90美元
 来源：新华社
 
-2. 美俄乌三方会谈在阿布扎比举行
-来源：Reuters
-
-3. 10月CPI同比上涨0.7%
-来源：国家统计局
-
-4. 太原公寓火灾已致14人遇难
-来源：央视新闻
-
-5. 首部中医药传统知识
-保护条例公布
+6. 第九届进博会闭幕
+意向成交约854.5亿美元，创历史新高
 来源：新华社
 
-6. 美伊核谈判现转机
-特朗普请求中方帮忙
-来源：Reuters、外交部
+7. 700号段号码保护试点来了
+外卖、网约车通话可隐藏真实手机号
+来源：工信部
 
-7. 公安部5项交管便民措施
-12月起全国推行
-来源：央视新闻
-
-8. 巴基斯坦击毙27名武装分子
+8. 英伟达及黄仁勋遭股东集体诉讼
+股价两日累跌超9%
 来源：Reuters
 
-9. 菲律宾副总统弹劾案开庭
-来源：Reuters
+9. 软银季度净亏损1.12万亿日元
+近两年首亏，数据中心项目巨额减值
+来源：财联社
 
-10. 卫星互联网低轨29组卫星
-发射成功
-来源：央视新闻
+10. 全国二手房交易持续回暖
+网签面积同比增11.4%，连续7个月增超10%
+来源：住建部
 
 【AI 资讯】11-20
 
-11. Anthropic发布双旗舰
-Fable 5.2与Mythos 5.2
-来源：Anthropic、财联社
+11. Anthropic发布Claude Fable 5.2
+速度最高提升30%，成本降20%
+来源：IT之家
 
-12. Anthropic IPO进入路演
-估值1.1至1.3万亿美元
-来源：Reuters、CNBC
+12. 谷歌开放最强模型Gemini 4 Carbon
+推广期价格约为竞品四分之一
+来源：Google官方博客
 
-13. 谷歌发布TPU 8tx与8i Max
-单年推齐四款
-来源：Google官方、Decrypt
+13. OpenAI推出Businesses in ChatGPT
+企业可认领主页、部署专属智能体
+来源：The Next Web
 
-14. 英伟达董事会调查CEO黄仁勋
-股价一度跌8%
-来源：Reuters
+14. Anthropic IPO定价每股70至78美元
+估值最高约1.4万亿美元，19日上市
+来源：财联社
 
-15. 美团开源LongCat-2.5
-1.6万亿参数
-来源：美团官方
+15. DeepMind发布AlphaProof Code
+四周生成600多万行证明验证Signal协议
+来源：DeepMind官方
 
-16. Meta发布轻量模型Muse Ember
-输入每百万token仅0.1美元
-来源：TechCrunch
+16. 美团开源LongCat 2.5
+1.6万亿参数MoE，MIT协议
+来源：VentureBeat
 
-17. OpenAI发布Images 2.6
-ChatGPT周活超12亿
-来源：OpenAI官方
+17. Anthropic发布办公三件套
+Sheets、Meetings、Whiteboards测试版
+来源：Engadget
 
-18. OpenAI宣布尊重robots.txt
-抓取训练需获网站同意
-来源：OpenAI官方
+18. 智元发布WITA-Omni具身大模型
+全模态交互，响应最快约400毫秒
+来源：智元机器人
 
-19. 网信办清朗行动整治
-AI生成健康谣言
-来源：中央网信办
+19. 智谱拟最高40亿港元回购H股
+上半年收入同比增近4倍
+来源：证券日报
 
-20. 英伟达发布GR00T 2
-机器人世界与动作模型
-来源：NVIDIA
+20. 台积电10月营收同比增近60%
+核准约409亿美元资本预算扩产
+来源：财联社
 
-【GitHub 热门项目】21-30
+【GitHub Trending】21-30
 
-21. sherlock-project/sherlock
-查用户名在400多个社交
-网络的注册位置
-昨日新增星标：约1975
-https://github.com/sherlock-project/sherlock
-
-22. morluto/rea
-让智能体无源码逆向分析软件
-昨日新增星标：约1740
-https://github.com/morluto/rea
-
-23. meta/astryx
-Meta开源设计系统
-150多个React组件
-昨日新增星标：约1588
+21. meta/astryx
+面向智能体的可定制开源设计系统
+今日新增约3111星标，趋势榜第一
 https://github.com/meta/astryx
 
-24. storytold/craft-anything
-分析任意应用再由智能体重建
-昨日新增星标：约1101
-https://github.com/storytold/craft-anything
+22. anthropics/skills
+Anthropic官方智能体技能公共仓库
+今日新增约1676星标
+https://github.com/anthropics/skills
 
-25. ccch1mneyyy/dsh-Go
-安卓原生运行DeepSeek Harness
-昨日新增星标：约981
-https://github.com/ccch1mneyyy/dsh-Go
+23. sherlock-project/sherlock
+按用户名跨数百社交网络查找账号
+今日新增约2387星标
+https://github.com/sherlock-project/sherlock
 
-26. anomalyco/rune
-GPU渲染的Rust界面框架
-支持无头运行
-昨日新增星标：约964
-https://github.com/anomalyco/rune
+24. mattpocock/skills
+面向真实工程师的智能体技能集
+今日新增约1223星标
+https://github.com/mattpocock/skills
 
-27. anefzaoui/misterdownloadmanager
-开源下载管理器界面类似IDM
-昨日新增星标：约850
-https://github.com/anefzaoui/misterdownloadmanager
+25. vercel-labs/agent-browser
+AI智能体浏览器自动化CLI，Rust编写
+今日新增约775星标
+https://github.com/vercel-labs/agent-browser
 
-28. pingdotgg/t3code
-多编码智能体统一控制面板
-昨日新增星标：约819
-https://github.com/pingdotgg/t3code
+26. homeassistant-ai/ha-mcp
+用Claude、ChatGPT配置智能家居
+今日新增约792星标
+https://github.com/homeassistant-ai/ha-mcp
 
-29. tangerineturtle1/NX2navi
-时之笛重制版移植Windows原生
-昨日新增星标：约801
-https://github.com/tangerineturtle1/NX2navi
+27. anthropics/claude-quickstarts
+Claude API官方快速上手示例集
+今日新增约530星标
+https://github.com/anthropics/claude-quickstarts
 
-30. NotRexed/Hookshot
-时之笛重制版PC移植
-无需模拟器
-昨日新增星标：约759
-https://github.com/NotRexed/Hookshot
+28. addyosmani/agent-skills
+生产级AI编码智能体工程技能库
+今日新增约465星标
+https://github.com/addyosmani/agent-skills
+
+29. google-deepmind/mujoco
+DeepMind通用物理模拟器
+今日新增约453星标
+https://github.com/google-deepmind/mujoco
+
+30. ranxianglei/billion-context
+上下文压缩插件，省约5倍词元
+今日新增约374星标
+https://github.com/ranxianglei/billion-context

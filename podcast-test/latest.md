@@ -1,119 +1,148 @@
-2026年11月12日 · 每日早报阅读清单
-共30条，编号与口播稿一致，
-凭编号可对照查找与详查。
+2026年11月13日 每日早报
+共30条，编号与口播稿一一对应。
+记住编号即可在下方按号查找。
 
 【时事新闻】1-10
 
-1. 俄美乌三方会谈在阿布扎比重启
+1. 纪念孙中山先生诞辰160周年
+大会在京举行
 来源：央视新闻
 
-2. APEC峰会倒计时，迎来深圳时间
+2. 英伟达宣布黄仁勋辞职
+CFO克雷斯任临时CEO
+来源：路透社
+
+3. 商务部：中美正就降税、
+贸易、投资密切沟通
 来源：央视新闻
 
-3. 王毅同美国国务卿通电话
+4. 普京会见美特使，同意欧洲
+代表加入下轮俄乌和谈
+来源：路透社
+
+5. 霍尔木兹海峡多艘油轮遇袭，
+胡塞武装袭击沙特阿美
+来源：路透社
+
+6. 国内油价下调，汽油每吨降
+645元，柴油降625元
+来源：国家发改委
+
+7. 渤海超5000米地层获高产
+油气井，日产气约80万方
 来源：央视新闻
 
-4. 西班牙十四年来首次全国大罢工
-来源：路透社
+8. 三部门挂牌督办18起涉食品
+安全重大犯罪案件
+来源：央视新闻
 
-5. 美众议院搁置赫格塞思弹劾动议
-来源：路透社
+9. 美股收跌，英伟达跌超4%，
+市值蒸发约1820亿美元
+来源：东方财富
 
-6. 霍尔木兹海峡油轮起火，局势紧张
-来源：路透社
-
-7. 十月CPI上涨百分之零点七
-来源：国家统计局
-
-8. 探源计划探路者卫星发射成功
+10. 英国三季度GDP环比增长
+0.7%，创近三年最高
 来源：中国新闻网
 
-9. 我国新增三处世界地质遗产地
-来源：自然资源部
+【人工智能】11-20
 
-10. 土耳其钢铁厂爆炸已致18死
-来源：央视新闻
+11. 谷歌发布 Gemini 4 Hydrogen，
+主打快速编程与智能体
+来源：Google 官方博客
 
-【AI 资讯】11-20
+12. Anthropic 发布 Claude
+Fable 5.2 与 Mythos 5.2
+来源：Anthropic 官方
 
-11. Anthropic启动IPO，或成史上最大
-来源：彭博社
+13. Anthropic 定档11月18日
+IPO定价，估值超1.3万亿美元
+来源：CNBC
 
-12. Anthropic发布Claude新模型
-来源：TechCrunch
+14. OpenAI 三季度营收100亿
+美元，年化约500亿美元
+来源：CNBC
 
-13. 谷歌发布Gemini 4 Carbon模型
-来源：谷歌官方博客
+15. OpenAI 投入200万美元
+研究 AI 与儿童安全
+来源：OpenAI 官方
 
-14. OpenAI三季度营收达百亿美元
-来源：华尔街日报
+16. Meta 发布高效推理模型
+Muse Ember，主打性价比
+来源：Meta 官方
 
-15. 百度文心5.5 Flash将开源
+17. 阿里 Qwen4-Max 开放预览，
+全系列仍未正式发布
+来源：今日头条
+
+18. MiniMax 开源图像生成模型
+H3 Image，支持4K分辨率
+来源：MiniMax 官方
+
+19. 百度发布文心 5.5 Flash
+预览版，2800亿参数
 来源：百度官方
 
-16. xAI因Grok滥用面临集体诉讼
-来源：彭博社
+20. 豆包工作台接入 Kimi、
+GLM、DeepSeek 第三方模型
+来源：IT之家
 
-17. 字节跳动将推Muse类智能体
-来源：彭博社
+【GitHub 热门】21-30
 
-18. a16z提出B2A经济概念
-来源：a16z
-
-19. Anthropic披露百亿美元算力协议
-来源：华尔街日报
-
-20. Meta发布轻量模型Muse Ember
-来源：TechCrunch
-
-【GitHub 热门项目】21-30
-
-21. morluto/rea
-无源码逆向分析软件实现
-今日新增星标：1631
-https://github.com/morluto/rea
-
-22. Lee-xeo/Claude-Cage
-隔离虚拟机运行Claude Code
-今日新增星标：1413
-https://github.com/Lee-xeo/Claude-Cage
-
-23. janestreet/agent_skills
-苏格拉底式AI导师技能
-今日新增星标：1313
-https://github.com/janestreet/agent_skills
-
-24. GoogleChrome/modern-web-guidance
-浏览器厂商现代网页技能包
-今日新增星标：1300
-https://github.com/GoogleChrome/modern-web-guidance
-
-25. storytold/craft-anything
-研究应用后让智能体重建
-今日新增星标：1122
-https://github.com/storytold/craft-anything
-
-26. meta/astryx
-Meta开源设计系统150+组件
-今日新增星标：1069
+21. meta/astryx
+开源设计系统，可定制、
+面向智能体场景
+今日新增星标：1789
 https://github.com/meta/astryx
 
-27. aws/aws-emulator
-本地模拟AWS接口免账号
-今日新增星标：1039
-https://github.com/aws/aws-emulator
+22. we-promise/sure
+开源个人理财应用，社区共建
+今日新增星标：974
+https://github.com/we-promise/sure
 
-28. Ebony-Vinyl/dsh-our-free-model
-免登录调用免费前沿模型
-今日新增星标：815
-https://github.com/Ebony-Vinyl/dsh-our-free-model
+23. GoogleChrome/modern-web-guidance-src
+把最新 Web 最佳实践
+喂给编码智能体
+今日新增星标：799
+https://github.com/GoogleChrome/modern-web-guidance-src
 
-29. pingdotgg/t3code
-统一控制所有编程智能体
-今日新增星标：773
-https://github.com/pingdotgg/t3code
+24. addyosmani/agent-skills
+面向 AI 编码智能体的
+生产级工程技能库
+今日新增星标：812
+https://github.com/addyosmani/agent-skills
 
-30. anefzaoui/misterdownloadmanager
-开源下载管理器仿IDM界面
-今日新增星标：750
-https://github.com/anefzaoui/misterdownloadmanager
+25. openai/codex-security
+OpenAI 安全工具，发现并
+修复代码安全漏洞
+今日新增星标：663
+https://github.com/openai/codex-security
+
+26. Alishahryar1/free-claude-code
+在终端免费使用 Claude Code
+等多种编码智能体
+今日新增星标：461
+https://github.com/Alishahryar1/free-claude-code
+
+27. pookjw/HermesEnabler
+让任意 Apple Watch 启用
+爱马仕表盘
+今日新增星标：300
+https://github.com/pookjw/HermesEnabler
+
+28. CopilotKit/OpenBot
+开源 AI 数字员工，自带
+浏览器、文件和工具
+今日新增星标：291
+https://github.com/CopilotKit/OpenBot
+
+29. ggml-org/llama.cpp
+C/C++ 大模型本地推理，
+经典开源方案
+今日新增星标：287
+https://github.com/ggml-org/llama.cpp
+
+30. QwenLM/qwen-code
+阿里开源的终端 AI 编码
+智能体
+今日新增星标：151
+https://github.com/QwenLM/qwen-code

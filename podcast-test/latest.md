@@ -1,129 +1,119 @@
-2026年11月14日 星期六 早报清单
+2026年11月15日 · 每日早报
 共30条，编号与口播稿一致。
-听到编号后，按编号往下查即可。
+按编号可快速定位对应条目。
 
 【时事新闻】1-10
 
-1. APEC深圳峰会11月18日举行
+1. 新版国家医保药品目录发布，107种新药纳入
 来源：新华社
 
-2. 俄空袭乌克兰两城，致3死50余伤
+2. 电动商用飞机CE-25A完成有人驾驶首飞
+来源：新华社
+
+3. 深圳前10个月外贸破5万亿元，全国第一
+来源：深圳海关（每日经济新闻）
+
+4. 证监会主席吴清谈资本市场稳定长效机制
+来源：每日经济新闻
+
+5. 中美贸易理事会首次会议举行
+来源：商务部（东方财富）
+
+6. 26省市出台现房销售实施细则
+来源：克而瑞（东方财富）
+
+7. 泽连斯基称美方曾提议弃顿巴斯换入北约
 来源：路透社
 
-3. 伊朗打击美军驻巴林预警雷达
-来源：央视新闻
+8. 美国解除全国航班停飞令，管制系统老旧
+来源：美联社
 
-4. 两油轮在霍尔木兹海峡触雷起火
+9. 星舰第15次试飞，飞船首次被机械臂回收
 来源：路透社
 
-5. 美要求日本驻军经费涨至3万亿日元
-来源：网易新闻综合
+10. 两油轮在霍尔木兹海峡触雷爆炸
+来源：路透社（财联社）
 
-6. 美民主党拟调查弹劾多名高官
-来源：网易新闻综合
+【AI 资讯】11-20
 
-7. 印尼总统接受副总统辞职
-来源：网易新闻综合
+11. OpenAI推出ChatGPT钱包，可生物识别支付
+来源：OpenAI官方博客
 
-8. 央行：前10月社融增量28.61万亿
-来源：中国人民银行
+12. Claude Opus 5.5成为付费用户默认模型
+来源：Anthropic官方博客
 
-9. 双11全网销售额增速仅4.8%
-来源：潇湘头条综合
-
-10. 中东部将有大风降温雨雪天气
-来源：央视新闻
-
-【人工智能】11-20
-
-11. 黄仁勋辞任英伟达CEO，即日生效
+13. Anthropic启动IPO路演
 来源：路透社
 
-12. 谷歌发布Gemini 4 Hydrogen并接入搜索
-来源：谷歌官方
+14. Claude误删法学教授大纲与一年讲义
+来源：Tom's Hardware
 
-13. OpenAI推出ChatGPT钱包功能
-来源：OpenAI官方
+15. 超150万块受限AI芯片被走私流入中国
+来源：Tom's Hardware
 
-14. OpenAI解散独立机器人团队
-来源：《财富》
+16. 英伟达被曝接触Arm CEO商讨继任
+来源：金融时报
 
-15. DeepSeek开放全家桶应用API
-来源：DeepSeek官方
+17. 英伟达11月17日发布财报，行业风向标
+来源：CNBC
 
-16. llama.cpp发布1.0正式版
-来源：GitHub
+18. Meta推出低价小模型Muse Ember
+来源：Meta官方
 
-17. SpaceX拟投740亿美元建AI超算园区
-来源：Business Standard
+19. DeepMind发布机器人模型Gemini Robotics 2.5
+来源：Google DeepMind官方博客
 
-18. 微软365全球中断，波及74国
-来源：Business Standard
+20. OpenAI公开372项AI数学研究成果
+来源：OpenAI（GitHub）
 
-19. AI解码哥德尔笔记，发现数百定理
-来源：《卫报》
+【GitHub Trending】21-30
 
-20. 豆包接入DeepSeek、Kimi等第三方模型
-来源：界面新闻
-
-【GitHub热门项目】21-30
-
-21. modern-web-guidance-src
-让AI编码代理跟上最新Web最佳实践
-今日新增星标：1875
+21. GoogleChrome/modern-web-guidance-src
+今日新增星标：+1225
+一句话：给AI编程助手提供最新网页开发最佳实践
 https://github.com/GoogleChrome/modern-web-guidance-src
-来源：GitHub Trending
 
-22. sure
-开源个人理财应用，人人可用
-今日新增星标：944
-https://github.com/we-promise/sure
-来源：GitHub Trending
-
-23. codex-security
-用AI发现、验证并修复代码安全漏洞
-今日新增星标：754
-https://github.com/openai/codex-security
-来源：GitHub Trending
-
-24. tailcat
-类似netcat，跑在Tailscale数据面上
-今日新增星标：324
-https://github.com/tailscale/tailcat
-来源：GitHub Trending
-
-25. daily_stock_analysis
-大模型驱动的多市场股票分析系统
-今日新增星标：272
-https://github.com/ZhuLinsen/daily_stock_analysis
-来源：GitHub Trending
-
-26. Veyra-NRVideo
-AI超分加插帧的Windows视频增强工具
-今日新增星标：245
-https://github.com/Likely7/Veyra-NRVideo
-来源：GitHub Trending
-
-27. open-code-review
-阿里开源的规则加AI混合代码评审工具
-今日新增星标：206
+22. alibaba/open-code-review
+今日新增星标：+897
+一句话：阿里开源的AI代码审查工具，意见精确到行
 https://github.com/alibaba/open-code-review
-来源：GitHub Trending
 
-28. chrome-devtools-mcp
-把Chrome开发者工具开放给AI编码代理
-今日新增星标：145
+23. ChromeDevTools/chrome-devtools-mcp
+今日新增星标：+673
+一句话：让AI助手直接调用Chrome开发者工具调试
 https://github.com/ChromeDevTools/chrome-devtools-mcp
-来源：GitHub Trending
 
-29. plannotator
-管理AI编码代理的批注反馈工作台
-今日新增星标：100
+24. we-promise/sure
+今日新增星标：+659
+一句话：社区共同开发的开源个人记账理财应用
+https://github.com/we-promise/sure
+
+25. tradermonty/claude-trading-skills
+今日新增星标：+556
+一句话：给Claude加股票分析与交易策略技能包
+https://github.com/tradermonty/claude-trading-skills
+
+26. dream-num/univer
+今日新增星标：+495
+一句话：开源办公SDK，快速搭建AI办公能力
+https://github.com/dream-num/univer
+
+27. louislam/uptime-kuma
+今日新增星标：+432
+一句话：漂亮好用的自托管网站监控工具
+https://github.com/louislam/uptime-kuma
+
+28. backnotprop/plannotator
+今日新增星标：+412
+一句话：AI编程智能体的团队审阅与反馈工作台
 https://github.com/backnotprop/plannotator
-来源：GitHub Trending
 
-30. buzz
-Block开源的蜂群式多代理通信平台
-今日新增星标：95
-https://github.com/block/buzz
-来源：GitHub Trending
+29. JuliusBrussee/caveman
+今日新增星标：+227
+一句话：让AI助手极简说话，省约65%令牌开销
+https://github.com/JuliusBrussee/caveman
+
+30. QwenLM/qwen-code
+今日新增星标：+116
+一句话：通义开源的命令行AI编程助手
+https://github.com/QwenLM/qwen-code

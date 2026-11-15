@@ -1,119 +1,131 @@
-2026年11月15日 · 每日早报
-共30条，编号与口播稿一致。
-按编号可快速定位对应条目。
+11月16日 早报阅读清单
+共30条，编号与今日口播稿完全一致，
+按编号查找对应内容即可。
+GitHub项目链接在条目下方单独一行，
+手机可点击长链接查看详情。
 
 【时事新闻】1-10
 
-1. 新版国家医保药品目录发布，107种新药纳入
-来源：新华社
+1. 英伟达换帅：黄仁勋辞任CEO
+来源：Reuters·中央社
 
-2. 电动商用飞机CE-25A完成有人驾驶首飞
-来源：新华社
+2. 美国空管故障全国停飞近5小时
+来源：Reuters·央视新闻
 
-3. 深圳前10个月外贸破5万亿元，全国第一
-来源：深圳海关（每日经济新闻）
+3. 中俄美领导人19日深圳会晤
+来源：AFP·塔斯社
 
-4. 证监会主席吴清谈资本市场稳定长效机制
-来源：每日经济新闻
+4. 中共中央印发地方委员会工作条例
+来源：央视新闻联播
 
 5. 中美贸易理事会首次会议举行
-来源：商务部（东方财富）
+来源：央视新闻
 
-6. 26省市出台现房销售实施细则
-来源：克而瑞（东方财富）
+6. 医保目录新增107种药品
+来源：央视新闻
 
-7. 泽连斯基称美方曾提议弃顿巴斯换入北约
-来源：路透社
+7. APEC深圳峰会17-18日举行
+来源：央视新闻
 
-8. 美国解除全国航班停飞令，管制系统老旧
-来源：美联社
+8. 国产电动商用飞机有人驾驶首飞
+来源：央视新闻
 
-9. 星舰第15次试飞，飞船首次被机械臂回收
-来源：路透社
+9. 铁路前10月发送旅客41.3亿人次
+来源：国铁集团·央视新闻
 
-10. 两油轮在霍尔木兹海峡触雷爆炸
-来源：路透社（财联社）
+10. 美方提顿巴斯换北约资格设想
+来源：Reuters·央视新闻
 
-【AI 资讯】11-20
+【人工智能】11-20
 
-11. OpenAI推出ChatGPT钱包，可生物识别支付
-来源：OpenAI官方博客
+11. 谷歌发布Gemini 4 Hydrogen
+来源：VentureBeat·谷歌官方
 
-12. Claude Opus 5.5成为付费用户默认模型
-来源：Anthropic官方博客
+12. Anthropic 19日纳斯达克上市
+来源：CNBC·The Verge
 
-13. Anthropic启动IPO路演
-来源：路透社
+13. OpenAI推出ChatGPT钱包代付
+来源：TechCrunch·The Verge
 
-14. Claude误删法学教授大纲与一年讲义
-来源：Tom's Hardware
+14. Claude升级办公套件与制造版
+来源：Anthropic官方
 
-15. 超150万块受限AI芯片被走私流入中国
-来源：Tom's Hardware
+15. LangChain融资3亿美元
+来源：Reuters
 
-16. 英伟达被曝接触Arm CEO商讨继任
-来源：金融时报
+16. 台积电10亿美元入股两大AI公司
+来源：Ars Technica
 
-17. 英伟达11月17日发布财报，行业风向标
+17. Thinking Machines开源大模型
+来源：官方博客·Reuters
+
+18. OpenAI解散独立机器人团队
+来源：机器之心·The Verge
+
+19. DeepSeek开放全家桶API
+来源：量子位
+
+20. Anthropic 34亿美元购燃气发电机
 来源：CNBC
-
-18. Meta推出低价小模型Muse Ember
-来源：Meta官方
-
-19. DeepMind发布机器人模型Gemini Robotics 2.5
-来源：Google DeepMind官方博客
-
-20. OpenAI公开372项AI数学研究成果
-来源：OpenAI（GitHub）
 
 【GitHub Trending】21-30
 
 21. GoogleChrome/modern-web-guidance-src
-今日新增星标：+1225
-一句话：给AI编程助手提供最新网页开发最佳实践
+来源：GitHub Trending
+给编程智能体推送最新Web最佳实践
+今日新增星标：约1200
 https://github.com/GoogleChrome/modern-web-guidance-src
 
 22. alibaba/open-code-review
-今日新增星标：+897
-一句话：阿里开源的AI代码审查工具，意见精确到行
+来源：GitHub Trending
+流水线加智能体的混合代码评审
+今日新增星标：约900
 https://github.com/alibaba/open-code-review
 
 23. ChromeDevTools/chrome-devtools-mcp
-今日新增星标：+673
-一句话：让AI助手直接调用Chrome开发者工具调试
+来源：GitHub Trending
+给智能体接入Chrome开发者工具
+今日新增星标：约660
 https://github.com/ChromeDevTools/chrome-devtools-mcp
 
-24. we-promise/sure
-今日新增星标：+659
-一句话：社区共同开发的开源个人记账理财应用
-https://github.com/we-promise/sure
-
-25. tradermonty/claude-trading-skills
-今日新增星标：+556
-一句话：给Claude加股票分析与交易策略技能包
-https://github.com/tradermonty/claude-trading-skills
-
-26. dream-num/univer
-今日新增星标：+495
-一句话：开源办公SDK，快速搭建AI办公能力
+24. dream-num/univer
+来源：GitHub Trending
+人和AI智能体共用的开源办公引擎
+今日新增星标：约500
 https://github.com/dream-num/univer
 
-27. louislam/uptime-kuma
-今日新增星标：+432
-一句话：漂亮好用的自托管网站监控工具
-https://github.com/louislam/uptime-kuma
-
-28. backnotprop/plannotator
-今日新增星标：+412
-一句话：AI编程智能体的团队审阅与反馈工作台
+25. backnotprop/plannotator
+来源：GitHub Trending
+管理和评审编程智能体的工作区
+今日新增星标：约400
 https://github.com/backnotprop/plannotator
 
-29. JuliusBrussee/caveman
-今日新增星标：+227
-一句话：让AI助手极简说话，省约65%令牌开销
-https://github.com/JuliusBrussee/caveman
+26. tradermonty/claude-trading-skills
+来源：GitHub Trending
+编程助手炒股技能包
+今日新增星标：约550
+https://github.com/tradermonty/claude-trading-skills
 
-30. QwenLM/qwen-code
-今日新增星标：+116
-一句话：通义开源的命令行AI编程助手
-https://github.com/QwenLM/qwen-code
+27. block/buzz
+来源：GitHub Trending
+Rust写的人机同房间聊天平台
+总星标：约3.7万
+https://github.com/block/buzz
+
+28. morluto/rea
+来源：GitHub Trending
+用智能体做软件逆向工程
+今日新增星标：约2700
+https://github.com/morluto/rea
+
+29. Tencent/LoopForge
+来源：GitHub Trending
+编程智能体工作流编排带人工审批
+今日新增星标：约30
+https://github.com/Tencent/LoopForge
+
+30. ModernRelay/omnigraph
+来源：GitHub Trending
+对象存储原生Rust图数据库
+总星标：约2500
+https://github.com/ModernRelay/omnigraph

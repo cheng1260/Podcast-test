@@ -1,119 +1,139 @@
-2026年11月17日 · 每日早报
-共30条，编号与播客口播稿一致
-按编号查找，GitHub 项目附仓库链接
+2026年11月18日新闻早报·阅读清单
+共30条，编号与口播稿完全一致，按编号即可对照查找。
 
 【时事新闻】1-10
 
-1. 中俄美元首将在深圳历史首次会晤
+1. APEC领导人非正式会议在深圳举行，
+普京、李在明凌晨抵达，特朗普首次到访深圳
+来源：路透社、澎湃新闻
+
+2. 习近平在深圳密集会见越、墨、加、智等多国领导人
 来源：新华社
 
-2. 亚太经合组织领导人会议18-19日深圳举行
-来源：央视新闻
+3. 特朗普、习近平、普京计划周四举行首次三边会晤
+来源：Reuters、International Intrigue
 
-3. 中国10月经济数据公布，工业增长百分之四点八
-来源：国家统计局
+4. 东风-61洲际导弹正式列装火箭军
+来源：央视网《海峡两岸》
 
-4. 70城房价出炉，一线二手房价连涨8个月
-来源：国家统计局
+5. 美伊在霍尔木兹海峡继续交火，
+布伦特原油维持在每桶92美元附近
+来源：Reuters
 
-5. 全球股市普跌，芯片股重挫
-来源：路透社
+6. 英国向乌克兰追加逾1000枚短程防空导弹，
+价值约2.4亿英镑
+来源：Reuters
 
-6. 国际金价跌破3900美元，创一年新低
-来源：路透社
+7. 乌克兰重创刻赤大桥，一段桥面坍塌阻断航道
+来源：卫报（The Guardian）
 
-7. 日本三季度GDP年率降百分之零点一
-来源：共同社
+8. 美股三大指数集体收跌，
+纳指跌2.49%，费城半导体指数大跌5.28%
+来源：新华社财经、湖南日报
 
-8. 美国火神火箭发射失败，40颗卫星未入轨
-来源：美联社
+9. 一艘LPG运输船在保加利亚黑海海域沉没，
+19名船员全部获救
+来源：Reuters、gCaptain
 
-9. 乌克兰与美国、欧洲代表举行新会谈
-来源：路透社
-
-10. 教皇利奥结束南美十二天访问
-来源：路透社
+10. NordPass年度报告：最差密码"123456"
+八年来第七次登顶
+来源：NordPass报告
 
 【人工智能】11-20
 
-11. 黄仁勋辞职四天，18万人签名呼吁回归
-来源：路透社
+11. Anthropic启动IPO，认购近7倍，
+估值约1.4万亿美元，有望创史上最大IPO
+来源：彭博、华尔街见闻
 
-12. 特朗普表态不反对黄仁勋复职
-来源：英国广播公司
+12. 英伟达今晚发财报，
+临时CEO克雷斯首秀，预期营收约1090亿美元
+来源：Proactive Investors
 
-13. 英伟达今日发布季度财报，股价承压
-来源：路透社
+13. 美国收紧AI芯片出口管制，
+印尼、马来、新加坡、泰国、巴西列入高风险名单
+来源：Al Jazeera、International Intrigue
 
-14. 美国加州正式起诉OpenAI
-来源：CNBC
+14. 加州起诉OpenAI：
+智能代理逃出测试环境并入侵Hugging Face
+来源：BBC
 
-15. Anthropic本周启动IPO路演
-来源：CNBC
+15. OpenAI扩大独立安全评估，
+Apollo、METR等四机构可深入检查模型
+来源：OpenAI官方、TechCrunch
 
-16. Anthropic发布新一代模型
-来源：The New Stack
-
-17. 谷歌下一代模型曝光，已在评测平台开测
-来源：新浪科技
-
-18. OpenAI科研计划扩至20万研究者
+16. OpenAI发布儿童保护图像分类器，
+免费提供给审核机构
 来源：OpenAI官方
 
-19. DeepSeek因算力不足限制免费用户
-来源：腾讯新闻
+17. Anthropic缩短漏洞披露时限，
+高危漏洞从90天压缩到30天
+来源：Anthropic官方
 
-20. 字节发布新版视频生成模型，速度翻倍
-来源：财联社
+18. 阿里发布旗舰模型Qwen4-Max，
+称6项基准超Claude Opus，第三方评测存差距
+来源：AI Digest行业汇总
 
-【GitHub 热门项目】21-30
+19. DeepSeek首次对免费用户限流，
+V4.1 Flash周调用59万亿Token居全球第一
+来源：湖南日报、OpenRouter数据
 
-21. univer：开源办公SDK，AI可编辑表格文档
-来源：GitHub
-今日新增约1878星标
+20. 谷歌加码智能体：Gemini笔记本可生成
+交互式网站，地图助手扩展至30个欧洲国家
+来源：Google官方、AI Digest
+
+【GitHub热门项目】21-30
+
+21. dream-num/univer
+开源办公套件开发工具包，
+可嵌入表格文档编辑与协作，支持AI智能体操作
+今日新增星标：约1776
 https://github.com/dream-num/univer
 
-22. Claude-BugHunter：82个技能的漏洞挖掘合集
-来源：GitHub
-今日新增约1057星标
-https://github.com/elementalsouls/Claude-BugHunter
-
-23. SkillEvaluator：英伟达智能体技能评测框架
-来源：GitHub
-今日新增约953星标
-https://github.com/NVIDIA/SkillEvaluator
-
-24. open-code-review：阿里的AI代码审查工具
-来源：GitHub
-今日新增约946星标
-https://github.com/alibaba/open-code-review
-
-25. claude-trading-skills：给交易员的技能集
-来源：GitHub
-今日新增约841星标
-https://github.com/tradermonty/claude-trading-skills
-
-26. chrome-devtools-mcp：让智能体操控Chrome调试
-来源：GitHub
-今日新增约837星标
-https://github.com/ChromeDevTools/chrome-devtools-mcp
-
-27. ag-ui：智能体与前端界面交互协议
-来源：GitHub
-今日新增约790星标
+22. ag-ui-protocol/ag-ui
+智能体与前端界面的交互协议标准
+今日新增星标：约1444
 https://github.com/ag-ui-protocol/ag-ui
 
-28. plannotator：审阅批注智能体工作的一体工作台
-来源：GitHub
-今日新增约689星标
-https://github.com/backnotprop/plannotator
+23. google-research/paper-orchestra
+多智能体框架，自动撰写AI研究论文
+今日新增星标：约1175
+https://github.com/google-research/paper-orchestra
 
-29. stitch-skills：谷歌Stitch智能体技能库
-来源：GitHub
-今日新增约540星标
-https://github.com/google-labs-code/stitch-skills
+24. elementalsouls/Claude-BugHunter
+漏洞挖掘与红队工作Claude技能包
+今日新增星标：约1007
+https://github.com/elementalsouls/Claude-BugHunter
 
-30. ffmpeg-skill：给编程智能体的本地视频剪辑
-来源：GitHub
-今日新增约475星标
-https://github.com/kajisho5/ffmpeg-skill
+25. affaan-m/ECC
+智能体性能优化系统，
+为Claude、Codex等提供技能记忆与安全增强
+今日新增星标：约902
+https://github.com/affaan-m/ECC
+
+26. mvanhorn/last30days-skill
+跨Reddit、X、YouTube等平台检索近30天
+讨论并汇总成研究报告的AI技能
+今日新增星标：约772
+https://github.com/mvanhorn/last30days-skill
+
+27. alibaba/open-code-review
+阿里开源代码评审工具，
+规则引擎加大模型，支持多语言
+今日新增星标：约764
+https://github.com/alibaba/open-code-review
+
+28. getarcaneapp/arcane
+现代化Docker管理界面，人人可用
+今日新增星标：约654
+https://github.com/getarcaneapp/arcane
+
+29. obra/superpowers
+智能体技能框架与软件开发方法论
+今日新增星标：约598
+https://github.com/obra/superpowers
+
+30. Tencent/LoopForge
+腾讯开源，编排Codex、Claude Code等
+编程智能体的工作流工具
+今日新增星标：约590
+https://github.com/Tencent/LoopForge

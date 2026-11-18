@@ -1,139 +1,121 @@
-2026年11月18日新闻早报·阅读清单
-共30条，编号与口播稿完全一致，按编号即可对照查找。
+2026年11月19日 新闻早报阅读清单
+
+共30条，编号与音频口播完全一致，按编号查找即可。
+前10条为时事，11至20为AI资讯，21至30为GitHub热门项目。
+GitHub项目附今日新增星标数和仓库链接。
 
 【时事新闻】1-10
 
-1. APEC领导人非正式会议在深圳举行，
-普京、李在明凌晨抵达，特朗普首次到访深圳
-来源：路透社、澎湃新闻
-
-2. 习近平在深圳密集会见越、墨、加、智等多国领导人
+1. 习近平出席APEC工商领导人峰会并发表主旨演讲
 来源：新华社
 
-3. 特朗普、习近平、普京计划周四举行首次三边会晤
-来源：Reuters、International Intrigue
+2. 中美元首深圳会面，中美俄三边峰会今日举行
+来源：路透社、CNBC
 
-4. 东风-61洲际导弹正式列装火箭军
-来源：央视网《海峡两岸》
+3. 美军空袭伊朗格什姆岛，伊朗打击科威特、巴林
+来源：路透社
 
-5. 美伊在霍尔木兹海峡继续交火，
-布伦特原油维持在每桶92美元附近
-来源：Reuters
+4. 国务院发布再生资源回收体系建设意见，聚焦新三样
+来源：经济日报
 
-6. 英国向乌克兰追加逾1000枚短程防空导弹，
-价值约2.4亿英镑
-来源：Reuters
+5. 八省市开展6G创新发展部省协同试点
+来源：央视新闻
 
-7. 乌克兰重创刻赤大桥，一段桥面坍塌阻断航道
-来源：卫报（The Guardian）
+6. 国资国企改革台账基本完成，逾万项改革任务
+来源：央视新闻
 
-8. 美股三大指数集体收跌，
-纳指跌2.49%，费城半导体指数大跌5.28%
-来源：新华社财经、湖南日报
+7. 深圳前10个月对APEC成员进出口增长超四成
+来源：央视新闻、深圳海关
 
-9. 一艘LPG运输船在保加利亚黑海海域沉没，
-19名船员全部获救
-来源：Reuters、gCaptain
+8. 英伟达财报提振全球市场，油价回落金价走低
+来源：CNBC、道琼斯
 
-10. NordPass年度报告：最差密码"123456"
-八年来第七次登顶
-来源：NordPass报告
+9. 美国十月零售稳健，美联储会议纪要今日发布
+来源：爱德华琼斯、路透社
 
-【人工智能】11-20
+10. 联合国机构警告加沙冬季人道形势严峻
+来源：央视新闻、联合国机构
 
-11. Anthropic启动IPO，认购近7倍，
-估值约1.4万亿美元，有望创史上最大IPO
-来源：彭博、华尔街见闻
+【AI资讯】11-20
 
-12. 英伟达今晚发财报，
-临时CEO克雷斯首秀，预期营收约1090亿美元
-来源：Proactive Investors
+11. Anthropic定价83美元，估值约1.5万亿美元今日上市
+来源：CNBC
 
-13. 美国收紧AI芯片出口管制，
-印尼、马来、新加坡、泰国、巴西列入高风险名单
-来源：Al Jazeera、International Intrigue
+12. OpenAI发布GPT-6.2双模型Astra与Sol
+来源：VentureBeat、凤凰科技
 
-14. 加州起诉OpenAI：
-智能代理逃出测试环境并入侵Hugging Face
-来源：BBC
+13. 谷歌发布Gemini 4 Neon，百万词元上下文
+来源：Google官方博客
 
-15. OpenAI扩大独立安全评估，
-Apollo、METR等四机构可深入检查模型
-来源：OpenAI官方、TechCrunch
+14. 英伟达季度营收1158亿美元翻倍，黄仁勋不复职
+来源：CNBC、Morningstar
 
-16. OpenAI发布儿童保护图像分类器，
-免费提供给审核机构
-来源：OpenAI官方
+15. 英伟达停止向中国发货H200，中方批评出口管制
+来源：路透社
 
-17. Anthropic缩短漏洞披露时限，
-高危漏洞从90天压缩到30天
-来源：Anthropic官方
+16. OpenAI用自家模型设计芯片，与AMD合作见效
+来源：OpenAI官方博客
 
-18. 阿里发布旗舰模型Qwen4-Max，
-称6项基准超Claude Opus，第三方评测存差距
-来源：AI Digest行业汇总
+17. 微软英特尔扩大合作，Azure芯片首用EMIB封装
+来源：Microsoft、Intel官方
 
-19. DeepSeek首次对免费用户限流，
-V4.1 Flash周调用59万亿Token居全球第一
-来源：湖南日报、OpenRouter数据
+18. 加州拟立法强制前沿AI监管，含紧急关停权
+来源：加州州长办公室
 
-20. 谷歌加码智能体：Gemini笔记本可生成
-交互式网站，地图助手扩展至30个欧洲国家
-来源：Google官方、AI Digest
+19. 苹果服务大规模中断后恢复，非网络攻击
+来源：CNBC、凤凰科技
+
+20. 腾讯开源Hy4-flash权重，总参数2200亿
+来源：HuggingFace、The Agent Watch
 
 【GitHub热门项目】21-30
 
-21. dream-num/univer
-开源办公套件开发工具包，
-可嵌入表格文档编辑与协作，支持AI智能体操作
-今日新增星标：约1776
-https://github.com/dream-num/univer
+21. jingyaogong/minimind
+两小时从零训练64M参数小模型，适合入门
+今日新增星标：192
+https://github.com/jingyaogong/minimind
 
-22. ag-ui-protocol/ag-ui
-智能体与前端界面的交互协议标准
-今日新增星标：约1444
-https://github.com/ag-ui-protocol/ag-ui
-
-23. google-research/paper-orchestra
-多智能体框架，自动撰写AI研究论文
-今日新增星标：约1175
-https://github.com/google-research/paper-orchestra
-
-24. elementalsouls/Claude-BugHunter
-漏洞挖掘与红队工作Claude技能包
-今日新增星标：约1007
+22. elementalsouls/Claude-BugHunter
+漏洞挖掘技能包，覆盖24类漏洞
+今日新增星标：2322
 https://github.com/elementalsouls/Claude-BugHunter
 
-25. affaan-m/ECC
-智能体性能优化系统，
-为Claude、Codex等提供技能记忆与安全增强
-今日新增星标：约902
+23. dream-num/univer
+可嵌入办公套件SDK，支持AI智能体接入
+今日新增星标：1774
+https://github.com/dream-num/univer
+
+24. google-research/paper-orchestra
+多智能体自动写LaTeX论文草稿
+今日新增星标：1529
+https://github.com/google-research/paper-orchestra
+
+25. ag-ui-protocol/ag-ui
+Agent接入前端应用的开放事件协议
+今日新增星标：1445
+https://github.com/ag-ui-protocol/ag-ui
+
+26. affaan-m/ECC
+多个编程Agent共用技能记忆与安全规则
+今日新增星标：1109
 https://github.com/affaan-m/ECC
 
-26. mvanhorn/last30days-skill
-跨Reddit、X、YouTube等平台检索近30天
-讨论并汇总成研究报告的AI技能
-今日新增星标：约772
+27. mvanhorn/last30days-skill
+抓取近30天社交网页内容生成带引用综述
+今日新增星标：1062
 https://github.com/mvanhorn/last30days-skill
 
-27. alibaba/open-code-review
-阿里开源代码评审工具，
-规则引擎加大模型，支持多语言
-今日新增星标：约764
-https://github.com/alibaba/open-code-review
+28. DeanChensj/jiangshan-map
+中国历代疆域交互式历史地图
+今日新增星标：991
+https://github.com/DeanChensj/jiangshan-map
 
-28. getarcaneapp/arcane
-现代化Docker管理界面，人人可用
-今日新增星标：约654
-https://github.com/getarcaneapp/arcane
+29. morluto/rea
+无源码逆向分析软件，解释功能实现
+今日新增星标：1346
+https://github.com/morluto/rea
 
-29. obra/superpowers
-智能体技能框架与软件开发方法论
-今日新增星标：约598
-https://github.com/obra/superpowers
-
-30. Tencent/LoopForge
-腾讯开源，编排Codex、Claude Code等
-编程智能体的工作流工具
-今日新增星标：约590
-https://github.com/Tencent/LoopForge
+30. krisgfx9/Wireless-Device-Battery-Monitor
+任务栏显示无线设备电量的小工具
+今日新增星标：1914
+https://github.com/krisgfx9/Wireless-Device-Battery-Monitor

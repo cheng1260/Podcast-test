@@ -1,121 +1,158 @@
-2026年11月19日 新闻早报阅读清单
-
-共30条，编号与音频口播完全一致，按编号查找即可。
-前10条为时事，11至20为AI资讯，21至30为GitHub热门项目。
-GitHub项目附今日新增星标数和仓库链接。
+2026年11月20日 每日早报 · 阅读清单
+共30条，编号与今晨播客口播稿完全一致，
+可按编号查找对应条目。
 
 【时事新闻】1-10
 
-1. 习近平出席APEC工商领导人峰会并发表主旨演讲
-来源：新华社
+1. 中美俄元首深圳举行首次三方会晤
+发表和平宣言，未提乌克兰与伊朗战事
+来源：美联社 / 新华社
 
-2. 中美元首深圳会面，中美俄三边峰会今日举行
-来源：路透社、CNBC
-
-3. 美军空袭伊朗格什姆岛，伊朗打击科威特、巴林
-来源：路透社
-
-4. 国务院发布再生资源回收体系建设意见，聚焦新三样
-来源：经济日报
-
-5. 八省市开展6G创新发展部省协同试点
+2. APEC第三十三次领导人非正式会议
+在深圳举行，习近平主持并发表重要讲话
 来源：央视新闻
 
-6. 国资国企改革台账基本完成，逾万项改革任务
+3. APEC工商领导人峰会发布深圳倡议
+系峰会创办三十年来首次发布成果文件
 来源：央视新闻
 
-7. 深圳前10个月对APEC成员进出口增长超四成
-来源：央视新闻、深圳海关
+4. 八省市获批开展6G部省协同试点
+含北京、上海、广东等，加快6G布局
+来源：工业和信息化部 / 央视新闻
 
-8. 英伟达财报提振全球市场，油价回落金价走低
-来源：CNBC、道琼斯
+5. 新一批可信数据空间试点启动
+探索按词元计费新机制
+来源：国家数据局 / 央视新闻
 
-9. 美国十月零售稳健，美联储会议纪要今日发布
-来源：爱德华琼斯、路透社
+6. 全国首个独立运行兆瓦级海岛微电网
+在福建台山岛投运，告别柴油发电
+来源：国家电网 / 央视新闻
 
-10. 联合国机构警告加沙冬季人道形势严峻
-来源：央视新闻、联合国机构
+7. 全球专利申请量创纪录达390万件
+中国以190万件位居全球第一
+来源：世界知识产权组织WIPO
 
-【AI资讯】11-20
+8. 美联储十月纪要释放鹰派信号
+美元指数升至19个月高位
+来源：央广财经 / 路透社
 
-11. Anthropic定价83美元，估值约1.5万亿美元今日上市
-来源：CNBC
+9. 胡塞武装称萨那等多地遭沙特空袭
+致11人死亡、36人受伤
+来源：路透社 / 央视新闻
 
-12. OpenAI发布GPT-6.2双模型Astra与Sol
-来源：VentureBeat、凤凰科技
+10. 国际法院裁定缅甸对罗兴亚人
+实施种族灭绝，属标志性裁决
+来源：美联社
 
-13. 谷歌发布Gemini 4 Neon，百万词元上下文
+【人工智能】11-20
+
+11. Anthropic在纳斯达克上市
+发行价83美元，募资约813亿美元，
+创史上最大IPO，代码ANT
+来源：Anthropic官方 / CNBC
+
+12. 英伟达单季营收首破千亿美元
+达1158亿美元，同比增103%，
+数据中心收入1076亿美元
+来源：路透社 / 证券时报
+
+13. 谷歌发布Gemini 4 Neon
+100万token上下文，编码代理
+榜单居首，价格低于旗舰档
 来源：Google官方博客
 
-14. 英伟达季度营收1158亿美元翻倍，黄仁勋不复职
-来源：CNBC、Morningstar
+14. OpenAI发布GPT-6.2 Astra
+首个被评自我提升风险等级为高的
+正式发布模型
+来源：OpenAI
 
-15. 英伟达停止向中国发货H200，中方批评出口管制
-来源：路透社
+15. OpenAI与AMD合作改进芯片设计
+关键指标最高提升14%，
+部分改动已进入流片环节
+来源：OpenAI官方
 
-16. OpenAI用自家模型设计芯片，与AMD合作见效
-来源：OpenAI官方博客
+16. 微软Ignite发布七款自研模型
+MAI Code 2约四成价格达到
+对标模型98%编码质量
+来源：microsoft.ai / The Verge
 
-17. 微软英特尔扩大合作，Azure芯片首用EMIB封装
-来源：Microsoft、Intel官方
+17. 奥特曼表示OpenAI计划上市
+未给时间表；英伟达已投资
+300亿美元
+来源：Yahoo财经 / CNBC
 
-18. 加州拟立法强制前沿AI监管，含紧急关停权
-来源：加州州长办公室
+18. AI发现NGINX两个严重漏洞
+HTTP/2远程代码执行，评分9.2，
+补丁已发布，建议尽快升级
+来源：Wiz Research / 纽约时报
 
-19. 苹果服务大规模中断后恢复，非网络攻击
-来源：CNBC、凤凰科技
+19. DeepMind Genie 4世界模型开放
+向AI Ultra订阅者开放，
+可实时编辑AI生成世界
+来源：Google官方博客
 
-20. 腾讯开源Hy4-flash权重，总参数2200亿
-来源：HuggingFace、The Agent Watch
+20. Isomorphic Labs融资50亿美元
+C轮，用于生物学基础模型
+与AI新药研发
+来源：CNBC
 
-【GitHub热门项目】21-30
+【GitHub热门】21-30
 
-21. jingyaogong/minimind
-两小时从零训练64M参数小模型，适合入门
-今日新增星标：192
-https://github.com/jingyaogong/minimind
+21. cursor/plugins
+Cursor插件规范与官方插件集合
+今日新增：约314星
+https://github.com/cursor/plugins
 
-22. elementalsouls/Claude-BugHunter
-漏洞挖掘技能包，覆盖24类漏洞
-今日新增星标：2322
-https://github.com/elementalsouls/Claude-BugHunter
+22. HKUDS/CLI-Anything
+为图形界面软件生成命令行封装，
+让AI代理可直接调用
+今日新增：约389星
+https://github.com/HKUDS/CLI-Anything
 
-23. dream-num/univer
-可嵌入办公套件SDK，支持AI智能体接入
-今日新增星标：1774
-https://github.com/dream-num/univer
-
-24. google-research/paper-orchestra
-多智能体自动写LaTeX论文草稿
-今日新增星标：1529
-https://github.com/google-research/paper-orchestra
-
-25. ag-ui-protocol/ag-ui
-Agent接入前端应用的开放事件协议
-今日新增星标：1445
-https://github.com/ag-ui-protocol/ag-ui
-
-26. affaan-m/ECC
-多个编程Agent共用技能记忆与安全规则
-今日新增星标：1109
-https://github.com/affaan-m/ECC
-
-27. mvanhorn/last30days-skill
-抓取近30天社交网页内容生成带引用综述
-今日新增星标：1062
+23. mvanhorn/last30days-skill
+抓取任意话题近30天社交与网页
+内容，生成带引用的综述
+今日新增：约1059星
 https://github.com/mvanhorn/last30days-skill
 
-28. DeanChensj/jiangshan-map
-中国历代疆域交互式历史地图
-今日新增星标：991
-https://github.com/DeanChensj/jiangshan-map
+24. google-research/paper-orchestra
+多智能体把实验日志自动写成
+LaTeX论文草稿
+今日新增：约1524星
+https://github.com/google-research/paper-orchestra
 
-29. morluto/rea
-无源码逆向分析软件，解释功能实现
-今日新增星标：1346
-https://github.com/morluto/rea
+25. obra/superpowers
+技能框架，让编程代理先澄清需求、
+写计划，再按TDD流程完成任务
+今日新增：约822星
+https://github.com/obra/superpowers
 
-30. krisgfx9/Wireless-Device-Battery-Monitor
-任务栏显示无线设备电量的小工具
-今日新增星标：1914
-https://github.com/krisgfx9/Wireless-Device-Battery-Monitor
+26. affaan-m/ECC
+让不同编程CLI代理共用技能、
+记忆与安全规则，减少行为漂移
+今日新增：约1108星
+https://github.com/affaan-m/ECC
+
+27. elementalsouls/Claude-BugHunter
+把漏洞挖掘方法做成Claude Code
+技能包，含83个技能
+今日新增：约1252星
+https://github.com/elementalsouls/Claude-BugHunter
+
+28. sveltejs/svelte
+前端框架Svelte，编译时产出
+高效原生JavaScript
+今日新增：约692星
+https://github.com/sveltejs/svelte
+
+29. astral-sh/uv
+Rust编写的Python包管理工具，
+安装依赖极快
+今日新增：约258星
+https://github.com/astral-sh/uv
+
+30. BaaRai/ARTEX
+自托管AI渗透测试平台，
+每个发现附带证据并有授权门控
+今日新增：约1293星
+https://github.com/BaaRai/ARTEX

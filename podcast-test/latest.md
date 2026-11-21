@@ -1,158 +1,129 @@
-2026年11月20日 每日早报 · 阅读清单
-共30条，编号与今晨播客口播稿完全一致，
-可按编号查找对应条目。
+2026年11月22日 每日早报阅读清单
+共30条，编号与口播稿完全一致，凭编号对照查找。
+GitHub项目请看清单里的完整链接。
 
 【时事新闻】1-10
 
-1. 中美俄元首深圳举行首次三方会晤
-发表和平宣言，未提乌克兰与伊朗战事
-来源：美联社 / 新华社
+1. 神舟二十四号完成发射前最后一次全区合练
+来源：央视新闻、新华社
 
-2. APEC第三十三次领导人非正式会议
-在深圳举行，习近平主持并发表重要讲话
+2. 英伟达遭美国证交会调查，股价较10月高点近腰斩
+来源：彭博社、央视财经
+
+3. 巴林称一处民用工业设施遭伊朗袭击起火
+来源：路透社
+
+4. 青海德令哈发生5.6级地震，暂无人员伤亡
+来源：新华社、央视新闻
+
+5. 10月高技术制造业增加值增长17.6%，创五年新高
+来源：国家统计局
+
+6. 第二次英欧峰会达成72项共识
 来源：央视新闻
 
-3. APEC工商领导人峰会发布深圳倡议
-系峰会创办三十年来首次发布成果文件
-来源：央视新闻
+7. 比特币跌破56000美元，创逾两年新低
+来源：证券时报
 
-4. 八省市获批开展6G部省协同试点
-含北京、上海、广东等，加快6G布局
-来源：工业和信息化部 / 央视新闻
+8. 前10月新设外资企业超5.2万家
+来源：商务部
 
-5. 新一批可信数据空间试点启动
-探索按词元计费新机制
-来源：国家数据局 / 央视新闻
+9. 墨西哥抓获美国通缉毒枭，交火致11人死亡
+来源：美联社、路透社
 
-6. 全国首个独立运行兆瓦级海岛微电网
-在福建台山岛投运，告别柴油发电
-来源：国家电网 / 央视新闻
-
-7. 全球专利申请量创纪录达390万件
-中国以190万件位居全球第一
-来源：世界知识产权组织WIPO
-
-8. 美联储十月纪要释放鹰派信号
-美元指数升至19个月高位
-来源：央广财经 / 路透社
-
-9. 胡塞武装称萨那等多地遭沙特空袭
-致11人死亡、36人受伤
-来源：路透社 / 央视新闻
-
-10. 国际法院裁定缅甸对罗兴亚人
-实施种族灭绝，属标志性裁决
-来源：美联社
+10. 联合国未达成自主武器约束性规则，两年内提方案
+来源：NPR、The Verge
 
 【人工智能】11-20
 
-11. Anthropic在纳斯达克上市
-发行价83美元，募资约813亿美元，
-创史上最大IPO，代码ANT
-来源：Anthropic官方 / CNBC
+11. Anthropic上市首日收涨17%，市值1.3万亿美元
+来源：Runtime、雅虎财经
 
-12. 英伟达单季营收首破千亿美元
-达1158亿美元，同比增103%，
-数据中心收入1076亿美元
-来源：路透社 / 证券时报
+12. OpenAI发布新旗舰模型GPT-6.2 Astra
+来源：OpenAI官方博客
 
-13. 谷歌发布Gemini 4 Neon
-100万token上下文，编码代理
-榜单居首，价格低于旗舰档
+13. 数学家声称借Claude证明黎曼猜想，待学界验证
+来源：The Verge、NPR
+
+14. 谷歌发布编程模型Gemini Neon，价格更低
 来源：Google官方博客
 
-14. OpenAI发布GPT-6.2 Astra
-首个被评自我提升风险等级为高的
-正式发布模型
-来源：OpenAI
+15. ChatGPT Space向全球Plus用户推出
+来源：OpenAI发布说明
 
-15. OpenAI与AMD合作改进芯片设计
-关键指标最高提升14%，
-部分改动已进入流片环节
-来源：OpenAI官方
+16. Meta暂停抓取条款，AI公司向出版商付费加速
+来源：尼曼实验室、路透社
 
-16. 微软Ignite发布七款自研模型
-MAI Code 2约四成价格达到
-对标模型98%编码质量
-来源：microsoft.ai / The Verge
+17. OpenRouter警告MiniMax提示词可能遭第三方读取
+来源：Hacker News、OpenRouter官方通知
 
-17. 奥特曼表示OpenAI计划上市
-未给时间表；英伟达已投资
-300亿美元
-来源：Yahoo财经 / CNBC
+18. Signal屏蔽Siri等AI智能体读取聊天记录
+来源：The Verge
 
-18. AI发现NGINX两个严重漏洞
-HTTP/2远程代码执行，评分9.2，
-补丁已发布，建议尽快升级
-来源：Wiz Research / 纽约时报
+19. 国家数据局将健全词元计量计费标准
+来源：国家数据局
 
-19. DeepMind Genie 4世界模型开放
-向AI Ultra订阅者开放，
-可实时编辑AI生成世界
-来源：Google官方博客
-
-20. Isomorphic Labs融资50亿美元
-C轮，用于生物学基础模型
-与AI新药研发
-来源：CNBC
+20. Stripe测试69个支付场景的编码智能体
+来源：Stripe官方评测
 
 【GitHub热门】21-30
 
-21. cursor/plugins
-Cursor插件规范与官方插件集合
-今日新增：约314星
-https://github.com/cursor/plugins
-
-22. HKUDS/CLI-Anything
-为图形界面软件生成命令行封装，
-让AI代理可直接调用
-今日新增：约389星
-https://github.com/HKUDS/CLI-Anything
-
-23. mvanhorn/last30days-skill
-抓取任意话题近30天社交与网页
-内容，生成带引用的综述
-今日新增：约1059星
-https://github.com/mvanhorn/last30days-skill
-
-24. google-research/paper-orchestra
-多智能体把实验日志自动写成
-LaTeX论文草稿
-今日新增：约1524星
-https://github.com/google-research/paper-orchestra
-
-25. obra/superpowers
-技能框架，让编程代理先澄清需求、
-写计划，再按TDD流程完成任务
-今日新增：约822星
-https://github.com/obra/superpowers
-
-26. affaan-m/ECC
-让不同编程CLI代理共用技能、
-记忆与安全规则，减少行为漂移
-今日新增：约1108星
-https://github.com/affaan-m/ECC
-
-27. elementalsouls/Claude-BugHunter
-把漏洞挖掘方法做成Claude Code
-技能包，含83个技能
-今日新增：约1252星
+21. elementalsouls/Claude-BugHunter
+说明：面向Claude Code的漏洞挖掘与红队技能包
+今日新增星标：约1794
 https://github.com/elementalsouls/Claude-BugHunter
+来源：GitHub Trending
 
-28. sveltejs/svelte
-前端框架Svelte，编译时产出
-高效原生JavaScript
-今日新增：约692星
-https://github.com/sveltejs/svelte
+22. obra/superpowers
+说明：智能体技能框架与软件开发方法论
+今日新增星标：约884
+https://github.com/obra/superpowers
+来源：GitHub Trending
 
-29. astral-sh/uv
-Rust编写的Python包管理工具，
-安装依赖极快
-今日新增：约258星
-https://github.com/astral-sh/uv
+23. HKUDS/CLI-Anything
+说明：让所有软件变成命令行可交互的智能体形态
+今日新增星标：约767
+https://github.com/HKUDS/CLI-Anything
+来源：GitHub Trending
 
-30. BaaRai/ARTEX
-自托管AI渗透测试平台，
-每个发现附带证据并有授权门控
-今日新增：约1293星
-https://github.com/BaaRai/ARTEX
+24. jingyaogong/minimind
+说明：两小时从零训练一个64M参数的小型大模型
+今日新增星标：约488
+https://github.com/jingyaogong/minimind
+来源：GitHub Trending
+
+25. firecrawl/firecrawl
+说明：把网页抓取成AI可用的结构化数据
+今日新增星标：约999
+https://github.com/firecrawl/firecrawl
+来源：GitHub Trending
+
+26. XiaoYouChR/Ghost-Downloader-3
+说明：多线程下载工具，界面清爽
+今日新增星标：约774
+https://github.com/XiaoYouChR/Ghost-Downloader-3
+来源：GitHub Trending
+
+27. mjmirza/app-store-compliance
+说明：整理117种应用商店拒审模式和修复方法
+今日新增星标：约724
+https://github.com/mjmirza/app-store-compliance
+来源：GitHub Trending
+
+28. zhouxiaoka/autoclip
+说明：一条链接把长视频自动剪成短视频并配字幕
+今日新增星标：约689
+https://github.com/zhouxiaoka/autoclip
+来源：GitHub Trending
+
+29. cathrynlavery/diagram-design
+说明：45种架构图模板，输出干净专业示意图
+今日新增星标：约582
+https://github.com/cathrynlavery/diagram-design
+来源：GitHub Trending
+
+30. mvanhorn/last30days-skill
+说明：跨平台研究任意话题并生成有依据的总结
+今日新增星标：约566
+https://github.com/mvanhorn/last30days-skill
+来源：GitHub Trending

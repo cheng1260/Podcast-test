@@ -1,129 +1,171 @@
-2026年11月22日 每日早报阅读清单
-共30条，编号与口播稿完全一致，凭编号对照查找。
-GitHub项目请看清单里的完整链接。
+11月23日新闻简报 · 阅读清单
+共30条，编号与口播稿音频完全一致。
+听到感兴趣的内容，按编号在本清单查找即可。
+信源覆盖：新华社、央视新闻、每日经济新闻、
+金十数据，以及 Reuters、Fortune、TechCrunch、
+The Verge、OpenAI、GitHub 仓库等国际渠道。
 
 【时事新闻】1-10
 
-1. 神舟二十四号完成发射前最后一次全区合练
-来源：央视新闻、新华社
+1. 全球股市上周重挫
+标普连跌七日跌8.6%，纳指一周跌10%
+来源：Reuters / Fortune
 
-2. 英伟达遭美国证交会调查，股价较10月高点近腰斩
-来源：彭博社、央视财经
+2. 亚洲多地周末紧急稳市
+韩启动73亿美元稳定基金，
+中方下调融资保证金比例下限至80%
+来源：Reuters
 
-3. 巴林称一处民用工业设施遭伊朗袭击起火
-来源：路透社
-
-4. 青海德令哈发生5.6级地震，暂无人员伤亡
-来源：新华社、央视新闻
-
-5. 10月高技术制造业增加值增长17.6%，创五年新高
-来源：国家统计局
-
-6. 第二次英欧峰会达成72项共识
+3. 特朗普称赞中俄美三方会晤
+称深圳APEC三方会晤史无前例，
+就"绝不让核冲突发生"达成共识
 来源：央视新闻
 
-7. 比特币跌破56000美元，创逾两年新低
-来源：证券时报
+4. A股再迎利好
+创业板拟引入做市商制度公开征求意见，
+沪深推出一揽子降费措施
+来源：新华社
 
-8. 前10月新设外资企业超5.2万家
-来源：商务部
+5. 波兰确认俄巡航导弹落入境内
+三枚Kh-101残骸落点靠近军演区，
+北约定于周一开会讨论
+来源：Reuters / Hindustan Times
 
-9. 墨西哥抓获美国通缉毒枭，交火致11人死亡
-来源：美联社、路透社
+6. 红海局势再度紧张
+胡塞袭击沙特拉比格炼油厂，
+特朗普称或于新年后打击伊朗
+来源：Reuters
 
-10. 联合国未达成自主武器约束性规则，两年内提方案
-来源：NPR、The Verge
+7. 俄货轮波罗的海遭袭起火
+遭无人机打击后漂入芬兰水域，
+芬兰实施临时海空管制
+来源：Reuters / AP
 
-【人工智能】11-20
+8. 商务部回应美打压中国电信
+坚决反对美联邦通信委员会
+恶意打压中国电信企业在美运营
+来源：商务部 / 金十数据
 
-11. Anthropic上市首日收涨17%，市值1.3万亿美元
-来源：Runtime、雅虎财经
+9. 上海捣毁虚假期货诈骗团伙
+53人落网，涉案1.2亿元，
+300多名资深股民被骗
+来源：央视新闻
 
-12. OpenAI发布新旗舰模型GPT-6.2 Astra
-来源：OpenAI官方博客
+10. 金价大跌金条遭抢购
+菜百金价跌至每克760元，
+投资金条半天售罄
+来源：每日经济新闻
 
-13. 数学家声称借Claude证明黎曼猜想，待学界验证
-来源：The Verge、NPR
+【AI 资讯】11-20
 
-14. 谷歌发布编程模型Gemini Neon，价格更低
-来源：Google官方博客
+11. Anthropic 创纪录IPO收官
+合计募资超千亿美元创全球纪录，
+首日大涨17%后隔夜跌6.5%
+来源：WSJ / Fortune
 
-15. ChatGPT Space向全球Plus用户推出
-来源：OpenAI发布说明
+12. DeepSeek 获产业资本入股
+腾讯、中国移动、中国电信、
+宁德时代等现身新增股东背后
+来源：经济日报
 
-16. Meta暂停抓取条款，AI公司向出版商付费加速
-来源：尼曼实验室、路透社
+13. OpenAI 称 AI 助力芯片设计
+模型重写 AMD GPU 电路代码，
+关键指标最高提升14%
+来源：OpenAI 官方
 
-17. OpenRouter警告MiniMax提示词可能遭第三方读取
-来源：Hacker News、OpenRouter官方通知
+14. 谷歌首页全面转向 AI
+搜索按钮换成 Gemini 快捷方式，
+AI模式月用户已超10亿
+来源：The Verge / 9to5Google
 
-18. Signal屏蔽Siri等AI智能体读取聊天记录
-来源：The Verge
+15. 阿里发布 Qwen3.8-Max
+总参数2.4万亿、百万token上下文，
+瞄准全球最先进水平
+来源：The Straits Times
 
-19. 国家数据局将健全词元计量计费标准
-来源：国家数据局
+16. 蚂蚁灵开源医疗大模型
+LingSante-3.1-flash：5600亿参数，
+MIT协议完全开放权重
+来源：Hugging Face
 
-20. Stripe测试69个支付场景的编码智能体
-来源：Stripe官方评测
+17. MiniMax 公布密码分析突破
+多项理论攻击推进到秒级破解，
+AI4S 科研再进一步
+来源：新民晚报
 
-【GitHub热门】21-30
+18. Signal 默认禁止截图
+防系统内置AI代理读取私密聊天，
+称其为"生存威胁"
+来源：TechCrunch
 
-21. elementalsouls/Claude-BugHunter
-说明：面向Claude Code的漏洞挖掘与红队技能包
-今日新增星标：约1794
+19. Meta 排放一年增45%
+AI数据中心用电激增35%，
+重估2030净零目标
+来源：Axios
+
+20. OpenAI 语音模型降价
+GPT-Live-1.1上线，
+静默时段费率直降60%
+来源：OpenAI
+
+【GitHub Trending】21-30
+
+21. Claude-BugHunter
+说明：面向安全研究的Claude技能包，
+含681个真实漏洞报告模式
+今日新增星标：1721
 https://github.com/elementalsouls/Claude-BugHunter
-来源：GitHub Trending
 
-22. obra/superpowers
-说明：智能体技能框架与软件开发方法论
-今日新增星标：约884
+22. superpowers
+说明：智能体软件开发方法论，
+引导AI先写规格再写代码
+今日新增星标：785
 https://github.com/obra/superpowers
-来源：GitHub Trending
 
-23. HKUDS/CLI-Anything
-说明：让所有软件变成命令行可交互的智能体形态
-今日新增星标：约767
+23. CLI-Anything
+说明：把任意软件改造成智能体
+可调用的命令行工具
+今日新增星标：687
 https://github.com/HKUDS/CLI-Anything
-来源：GitHub Trending
 
-24. jingyaogong/minimind
-说明：两小时从零训练一个64M参数的小型大模型
-今日新增星标：约488
-https://github.com/jingyaogong/minimind
-来源：GitHub Trending
-
-25. firecrawl/firecrawl
-说明：把网页抓取成AI可用的结构化数据
-今日新增星标：约999
+24. firecrawl
+说明：智能体知识基础设施，
+一个接口抓取550+数据源
+今日新增星标：910
 https://github.com/firecrawl/firecrawl
-来源：GitHub Trending
 
-26. XiaoYouChR/Ghost-Downloader-3
-说明：多线程下载工具，界面清爽
-今日新增星标：约774
-https://github.com/XiaoYouChR/Ghost-Downloader-3
-来源：GitHub Trending
+25. minimind
+说明：两小时从零训练64M小模型，
+大模型原理入门项目
+今日新增星标：473
+https://github.com/jingyaogong/minimind
 
-27. mjmirza/app-store-compliance
-说明：整理117种应用商店拒审模式和修复方法
-今日新增星标：约724
-https://github.com/mjmirza/app-store-compliance
-来源：GitHub Trending
-
-28. zhouxiaoka/autoclip
-说明：一条链接把长视频自动剪成短视频并配字幕
-今日新增星标：约689
-https://github.com/zhouxiaoka/autoclip
-来源：GitHub Trending
-
-29. cathrynlavery/diagram-design
-说明：45种架构图模板，输出干净专业示意图
-今日新增星标：约582
-https://github.com/cathrynlavery/diagram-design
-来源：GitHub Trending
-
-30. mvanhorn/last30days-skill
-说明：跨平台研究任意话题并生成有依据的总结
-今日新增星标：约566
+26. last30days-skill
+说明：跨Reddit、X、YouTube等
+平台汇总近30天热点调研
+今日新增星标：673
 https://github.com/mvanhorn/last30days-skill
-来源：GitHub Trending
+
+27. AFFiNE
+说明：开源新一代知识库，
+笔记白板表格合一，替代Notion
+今日新增星标：537
+https://github.com/toeverything/AFFiNE
+
+28. diagram-design
+说明：为AI编程工具生成出版级图表，
+内置45种图型
+今日新增星标：513
+https://github.com/cathrynlavery/diagram-design
+
+29. Ghost-Downloader-3
+说明：开源多线程高速下载器，
+"下载器的集大成者"
+今日新增星标：690
+https://github.com/XiaoYouChR/Ghost-Downloader-3
+
+30. autoclip
+说明：长视频一键剪成短视频，
+自动生成字幕封面和发布文案
+今日新增星标：640
+https://github.com/zhouxiaoka/autoclip
